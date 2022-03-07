@@ -18,7 +18,6 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-e
-    backgroundSize: inset
     title: We do fishing differently
     subtitle: Fresh. Better. Faster.
     actions:
