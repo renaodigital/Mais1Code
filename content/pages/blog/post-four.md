@@ -4,9 +4,7 @@ layout: PostLayout
 date: '2021-12-01'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
-excerpt: >-
-  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
-  the sea has to offer, nothing more, and no cheating.
+excerpt: As aulas ocorrerem semanalmente e terá um professor(a) exclusivo para você
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
