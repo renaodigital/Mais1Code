@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Upcoming adventures
+title: Próximas aventuras
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
