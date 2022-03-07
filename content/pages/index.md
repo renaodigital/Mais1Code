@@ -158,7 +158,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero-3.webp
+      url: /images/metaverseimage.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
