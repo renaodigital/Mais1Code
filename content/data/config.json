@@ -31,7 +31,7 @@
             {
                 "type": "Button",
                 "label": "QUERO MENTORIA",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:contato@mais",
                 "altText": "QUERO MENTORIA",
                 "style": "secondary",
                 "showIcon": true,
