@@ -32,7 +32,7 @@
                 "type": "Button",
                 "label": "QUERO MENTORIA",
                 "url": "mailto:info@lorem.mail",
-                "altText": "Contact us",
+                "altText": "QUERO MENTORIA",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
