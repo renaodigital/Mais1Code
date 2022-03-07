@@ -80,7 +80,7 @@ sections:
   - elementId: ''
     colors: colors-c
     variant: variant-a
-    title: Seasonal adventures
+    title: Como funciona
     actions:
       - type: Link
         label: See all adventures
