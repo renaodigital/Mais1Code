@@ -60,9 +60,7 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: "## Por que aprender a programar\_**.**\n\nTem dúvidas? vou te dar 10 motivos, só clicar no play\n"
     name: Isabelle Parks
     title: Head chef at Parks
     styles:
