@@ -33,7 +33,7 @@ sections:
       type: BackgroundImage
       url: /images/Screenshot_10.png
       backgroundSize: contain
-      backgroundPosition: top
+      backgroundPosition: bottom
       backgroundRepeat: no-repeat
       opacity: 85
     styles:
