@@ -83,7 +83,7 @@ sections:
     title: Como funciona
     actions:
       - type: Link
-        label: See all adventures
+        label: Veja tudo!
         url: /blog
         showIcon: true
         icon: arrowRight
