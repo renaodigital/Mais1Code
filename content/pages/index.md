@@ -188,7 +188,7 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     colors: colors-d
-    title: Junte-se ao Nós
+    title: Junte-se a Nós
     form:
       type: FormBlock
       elementId: sign-up-form
