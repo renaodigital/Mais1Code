@@ -3,7 +3,7 @@ title: Você faz seu cadastro GRATUITAMENTE
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
-excerpt: Você faz seu cadastro GRATUITAMENTE através desse link
+excerpt: 'Assim que iniciar a abertura de turmas, você será chamado(a)'
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
