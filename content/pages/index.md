@@ -55,6 +55,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundSize: full
   - type: QuoteSection
     colors: colors-d
     quote: >-
