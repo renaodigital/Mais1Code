@@ -76,7 +76,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Sobre",
                 "url": "/about",
                 "altText": ""
             },
