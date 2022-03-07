@@ -31,7 +31,7 @@ sections:
         showIcon: true
     backgroundImage:
       type: BackgroundImage
-      url: /images/header.png
+      url: /images/Screenshot_10.png
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
