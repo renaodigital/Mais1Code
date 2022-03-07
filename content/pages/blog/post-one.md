@@ -8,7 +8,8 @@ excerpt: >-
   eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: >-
+    /images/Metaverse-Microsoft-relies-on-teleworking-in-virtual-spaces-1140x570.jpg
   altText: Post thumbnail image
 media:
   type: ImageBlock
