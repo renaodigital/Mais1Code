@@ -12,7 +12,6 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/bg.webp
   altText: Post Image
 bottomSections:
   - elementId: ''
