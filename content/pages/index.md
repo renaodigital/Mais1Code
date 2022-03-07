@@ -33,7 +33,7 @@ sections:
       url: /images/Screenshot_10.png
       backgroundSize: contain
       backgroundPosition: center
-      backgroundRepeat: no-repeat
+      backgroundRepeat: repeat
       opacity: 100
     styles:
       self:
