@@ -61,7 +61,7 @@ sections:
   - type: QuoteSection
     colors: colors-d
     quote: "## Por que aprender a programar\_**.**\n\nTem dúvidas? vou te dar 10 motivos, só clicar no play\n"
-    name: Isabelle Parks
+    name: 'https://www.youtube.com/watch?v=mHW1Hsqlp6A&feature=emb_title'
     title: Head chef at Parks
     styles:
       self:
