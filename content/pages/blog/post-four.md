@@ -7,7 +7,8 @@ author: content/data/team/hilary-ouse.json
 excerpt: As aulas ocorrerem semanalmente e terá um professor(a) exclusivo para você
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: >-
+    /images/4-capa-Jovem-humilde-se-torna-programador-usando-celulares-quebrados-como-principal-instrumento.jpg
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
