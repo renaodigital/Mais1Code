@@ -152,7 +152,7 @@ sections:
 
     actions:
       - type: Link
-        label: Join adventure
+        label: Comunidade no Discord
         url: 'https://www.stackbit.com/'
         showIcon: true
         icon: arrowRight
