@@ -224,9 +224,7 @@ sections:
           width: full
           type: TextFormControl
         - name: updatesConsent
-          label: |-
-
-            Inscreva-me para receber atualizações
+          label: Inscreva-me para receber atualizações
           isRequired: false
           width: full
           type: CheckboxFormControl
