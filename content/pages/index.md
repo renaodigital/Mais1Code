@@ -153,7 +153,7 @@ sections:
     actions:
       - type: Link
         label: Comunidade no Discord
-        url: 'https://www.stackbit.com/'
+        url: 'https://discord.gg/RdevxUp6cC'
         showIcon: true
         icon: arrowRight
     backgroundImage:
