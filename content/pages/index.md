@@ -19,7 +19,9 @@ sections:
     elementId: homepage-hero-1
     colors: colors-b
     title: +1 Code
-    subtitle: Fresh. Better. Faster.
+    subtitle: >-
+      Transformando jovens periféricos ou moradores de favela em programadores
+      GRATUITAMENTE.
     actions:
       - type: Button
         label: Get Started
