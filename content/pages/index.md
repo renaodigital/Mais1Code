@@ -34,7 +34,7 @@ sections:
       url: /images/Screenshot_10.png
       backgroundSize: cover
       backgroundPosition: center
-      backgroundRepeat: no-repeat
+      backgroundRepeat: repeat
       opacity: 85
     styles:
       self:
