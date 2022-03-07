@@ -15,7 +15,6 @@ featuredImage:
   altText: Post thumbnail image
 media:
   type: ImageBlock
-  url: /images/post-1.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
