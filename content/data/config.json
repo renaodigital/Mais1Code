@@ -59,6 +59,7 @@
         "title": "Diga olá",
         "contacts": {
             "title": "Contact details",
+            "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "Our address"
         },
         "copyrightText": "Powered by [Stackbit](https://www.stackbit.com/)",
@@ -77,7 +78,7 @@
             },
             {
                 "type": "Link",
-                "label": "Aventuras",
+                "label": "Blog",
                 "url": "/blog",
                 "altText": ""
             },
