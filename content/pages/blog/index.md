@@ -53,7 +53,8 @@ bottomSections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: >-
+          /images/i-5-90691700-facebook-wants-to-build-a-metaverse-microsoft-is-creating-something-even-more-ambitious.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
