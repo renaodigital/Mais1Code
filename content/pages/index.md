@@ -146,8 +146,10 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: Na mais um +1code trabalhamos o ensino Peer to Peer
-    text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
+    text: >+
+      ## (um para um), onde você terá acesso a um professor voluntário, com uma
+      a duas aulas por semana e suporte diário de nossa equipe.&#xA;&#xA;
+
     actions:
       - type: Link
         label: Join adventure
