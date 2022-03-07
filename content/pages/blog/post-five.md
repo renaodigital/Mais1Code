@@ -1,7 +1,7 @@
 ---
 title: Você faz seu cadastro GRATUITAMENTE
 layout: PostLayout
-date: '2021-12-02'
+date: '2022-02-02'
 author: content/data/team/hugh-saturation.json
 excerpt: 'Assim que iniciar a abertura de turmas, você será chamado(a)'
 featuredImage:
