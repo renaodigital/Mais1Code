@@ -10,7 +10,6 @@ featuredImage:
   altText: Post Image
 media:
   type: ImageBlock
-  url: /images/hero.webp
   altText: Post Image
 bottomSections:
   - elementId: ''
