@@ -124,9 +124,7 @@ sections:
   - type: TextSection
     colors: colors-e
     variant: variant-a
-    text: |+
-      Siga-nos no Instagram
-
+    text: '[Siga-nos no Instagram](https://www.instagram.com/mais1code/)'
     styles:
       self:
         height: auto
