@@ -1,7 +1,7 @@
 ---
 title: Vamos bater um papo para te conhecer e apresentar melhor o +1 Code
 layout: PostLayout
-date: '2021-12-01'
+date: '2022-02-01'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 excerpt: As aulas ocorrerem semanalmente e terá um professor(a) exclusivo para você
