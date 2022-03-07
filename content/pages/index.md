@@ -60,7 +60,7 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: "## Por que aprender a programar\_**.**\n\nTem dúvidas? vou te dar 10 motivos, só clicar no play\n"
+    quote: "## Por que aprender a programar\_**.**\n\n"
     styles:
       self:
         height: auto
