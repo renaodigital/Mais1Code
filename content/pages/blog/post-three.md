@@ -8,7 +8,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/bg.webp
+  url: /images/2021-08-19-image-33-be13f7df.webp
   altText: Post Image
 media:
   type: ImageBlock
