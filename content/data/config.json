@@ -59,7 +59,6 @@
         "title": "Diga olá",
         "contacts": {
             "title": "Contact details",
-            "emailAltText": "Our email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "Our address"
         },
