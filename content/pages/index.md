@@ -145,7 +145,10 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Time to leave your desk. Let’s go flying
+    title: >-
+      Na mais um +1code trabalhamos o ensino Peer to Peer (um para um), onde
+      você terá acesso a um professor voluntário, com uma a duas aulas por
+      semana e suporte diário de nossa equipe.
     text: |
       We’re local, seasonal fisherman, supporting fishing restrictions.
     actions:
