@@ -1,5 +1,5 @@
 ---
-title: Você faz seu cadastro GRATUITAMENTE através desse link
+title: Você faz seu cadastro GRATUITAMENTE
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
