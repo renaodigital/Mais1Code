@@ -228,7 +228,9 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: Submit form
+      submitLabel: |-
+
+        Enviar o formulário
       styles:
         submitLabel:
           textAlign: center
