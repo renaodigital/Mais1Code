@@ -3,9 +3,7 @@ title: Sunset fishnet
 layout: PostLayout
 date: '2021-12-02'
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+excerpt: Você faz seu cadastro GRATUITAMENTE através desse link
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
