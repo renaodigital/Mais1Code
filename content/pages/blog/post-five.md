@@ -6,7 +6,7 @@ author: content/data/team/hugh-saturation.json
 excerpt: 'Assim que iniciar a abertura de turmas, você será chamado(a)'
 featuredImage:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/jovem-programacao-celular-vaquinha-3.jpg
   altText: Post Image
 media:
   type: ImageBlock
