@@ -6,7 +6,7 @@
         "isSticky": true,
         "primaryColors": "colors-d",
         "secondaryColors": "colors-d",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
@@ -50,7 +50,8 @@
             "caption": "Caption of the image",
             "elementId": "",
             "type": "ImageBlock"
-        }
+        },
+        "title": "Business"
     },
     "footer": {
         "variant": "variant-b",
