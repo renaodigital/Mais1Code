@@ -18,7 +18,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: We do fishing differently
+    title: +1 Code
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
