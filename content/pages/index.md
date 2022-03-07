@@ -158,7 +158,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/Screenshot_15.png
+      url: /images/2021-08-19-image-33.webp
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
