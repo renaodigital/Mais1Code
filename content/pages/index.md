@@ -188,7 +188,7 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     colors: colors-d
-    title: Join our club
+    title: Junte-se ao Nós
     text: >
       We will notify you every time a shipment is heading to your neighborhood,
       and you could immediatly let us know if you want in or not
