@@ -158,7 +158,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/2021-08-19-image-33.webp
+      url: /images/RWOkme.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
