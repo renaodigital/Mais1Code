@@ -24,7 +24,7 @@ sections:
       GRATUITAMENTE.
     actions:
       - type: Button
-        label: Get Started
+        label: Quero ser aluno
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLSdLq7-5G8MDD_eMunWjwbPeo2o-JhMI4U2IP6aRN6WwW7kNUg/viewform
         style: primary
