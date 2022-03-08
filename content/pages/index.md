@@ -230,7 +230,7 @@ sections:
         - name: Sua Mensagem
           label: Sua Mensagem
           hideLabel: true
-          placeholder: Address
+          placeholder: Sua Mensagem
           isRequired: false
           width: full
           type: TextFormControl
