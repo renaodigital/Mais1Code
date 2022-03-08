@@ -2,19 +2,6 @@
 title: Mais 1 Code
 layout: PageLayout
 sections:
-  - type: DividerSection
-    colors: colors-d
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-0
-          - pb-6
-          - pl-0
-          - pr-0
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
