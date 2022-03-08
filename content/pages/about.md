@@ -6,13 +6,9 @@ sections:
     colors: colors-d
     variant: variant-a
     title: Projeto Crypto
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
+    text: |+
+      ## Impacto social: a habilidade de mudar o mundo ao seu redor&#xA;&#xA;
 
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
     styles:
       self:
         height: auto
