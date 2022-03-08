@@ -23,7 +23,7 @@ styles:
     textAlign: center
 bottomSections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-e
     variant: variant-a
     text: |+
       ## [Siga-nos no Instagram](https://www.instagram.com/mais1code/)
