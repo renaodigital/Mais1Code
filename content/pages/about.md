@@ -7,7 +7,7 @@ sections:
     variant: variant-a
     title: Projeto Crypto
     text: |+
-      ## Impacto social: a habilidade de mudar o mundo ao seu redor&#xA;&#xA;
+      ## Impacto social: a habilidade de mudar o mundo ao seu redor
 
     styles:
       self:
