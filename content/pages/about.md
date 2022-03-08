@@ -1,5 +1,5 @@
 ---
-title: About
+title: WhitePaper
 layout: PageLayout
 sections:
   - type: TextSection
