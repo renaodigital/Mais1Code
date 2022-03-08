@@ -109,6 +109,14 @@
                 "label": "Facebook",
                 "url": "/",
                 "icon": "facebook"
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [
