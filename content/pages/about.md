@@ -72,6 +72,7 @@ sections:
       compartilhar nossas experiências com o mundo.
     people:
       - content/data/team/hilary-ouse.json
+      - content/data/team/hilary-ouse.json
       - content/data/team/desmond-eagle.json
     styles:
       self:
