@@ -56,7 +56,9 @@ sections:
         justifyContent: flex-start
   - type: QuoteSection
     colors: colors-d
-    quote: "## Por que aprender a programar\_**.**\n\n"
+    quote: |+
+      ## **Reprogramando a Quebrada**
+
     styles:
       self:
         height: auto
