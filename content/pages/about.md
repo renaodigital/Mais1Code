@@ -68,8 +68,8 @@ sections:
     colors: colors-d
     title: Nosso Time
     subtitle: >-
-      We’re a group of proffesional fisherman & friends, who love exploring the
-      seas and sharing our experiences with the world.
+      Somos um grupo de profissionais e amigos, que adoram tecnologia e
+      compartilhar nossas experiências com o mundo.
     people:
       - content/data/team/hilary-ouse.json
       - content/data/team/dianne-ameter.json
