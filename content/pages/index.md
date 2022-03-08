@@ -228,7 +228,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: Sua Mensagem
-          label: Address
+          label: Sua Mensagem
           hideLabel: true
           placeholder: Address
           isRequired: false
