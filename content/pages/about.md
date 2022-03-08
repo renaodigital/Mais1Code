@@ -102,4 +102,5 @@ sections:
         justifyContent: center
     type: FeaturedPeopleSection
 addTitleSuffix: true
+metaTitle: WhitePaper
 ---
