@@ -270,7 +270,7 @@ addTitleSuffix: true
 metaTags:
   - property: 'og:title'
     content: Mais Um Code
-  - property: 'og:title'
+  - property: 'og:image'
     content: ''
 metaTitle: Mais 1 Code
 metaDescription: Reprogramando A Quebrada
