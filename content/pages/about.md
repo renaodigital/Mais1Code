@@ -28,9 +28,7 @@ sections:
     subtitle: Mais 1 Code
   - elementId: ''
     colors: colors-b
-    quote: >-
-      “This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.”
+    quote: "Você já parou para refletir sobre o papel que a sua empresa desempenha na sociedade?\_\n\n"
     backgroundImage:
       type: BackgroundImage
       url: >-
