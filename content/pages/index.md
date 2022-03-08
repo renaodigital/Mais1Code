@@ -231,7 +231,7 @@ sections:
           label: Address
           hideLabel: true
           placeholder: Address
-          isRequired: true
+          isRequired: false
           width: full
           type: TextFormControl
         - name: updatesConsent
