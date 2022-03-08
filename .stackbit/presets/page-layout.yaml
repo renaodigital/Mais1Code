@@ -159,7 +159,7 @@ presets:
           text: We’re local, seasonal fisherman, supporting fishing restrictions.
           actions:
             - type: Button
-              label: Join adventure
+              label: Saiba Mais
               url: https://www.stackbit.com/
               style: secondary
               showIcon: true
