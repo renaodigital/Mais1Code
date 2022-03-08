@@ -5,7 +5,6 @@
     "role": "Senior fisherwoman",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/dianne-ameter.png",
         "altText": "Dianne Ameter photo"
     }
 }
