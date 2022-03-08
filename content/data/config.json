@@ -97,14 +97,6 @@
                 "icon": "twitter"
             },
             {
-                "label": "Facebook",
-                "altText": "",
-                "url": "https://www.instagram.com/mais1code/",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
-            },
-            {
                 "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
