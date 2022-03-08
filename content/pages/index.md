@@ -31,6 +31,15 @@ sections:
         iconPosition: right
         icon: arrowRight
         showIcon: true
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     backgroundImage:
       type: BackgroundImage
       url: /images/Screenshot_10.png
