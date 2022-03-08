@@ -33,7 +33,7 @@ sections:
       we thought we should highlight her.”
     backgroundImage:
       type: BackgroundImage
-      url: /images/bg.webp
+      url: /images/1-54-screenshot.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
