@@ -33,7 +33,8 @@ sections:
       we thought we should highlight her.”
     backgroundImage:
       type: BackgroundImage
-      url: /images/1-54-screenshot.jpg
+      url: >-
+        /images/Metaverse-Microsoft-relies-on-teleworking-in-virtual-spaces-1140x570.jpg
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
