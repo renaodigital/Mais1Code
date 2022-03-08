@@ -94,7 +94,7 @@ presets:
       text: ''
       actions:
         - type: Button
-          label: Join adventure
+          label: Saiba Mais
           showIcon: true
           icon: arrowRight
           style: primary
