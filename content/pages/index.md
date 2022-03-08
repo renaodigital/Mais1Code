@@ -270,6 +270,8 @@ addTitleSuffix: true
 metaTags:
   - property: 'og:title'
     content: Mais Um Code
+  - property: 'og:title'
+    content: ''
 metaTitle: Mais 1 Code
 metaDescription: Reprogramando A Quebrada
 socialImage: /images/TMGGK9VwSrJFSQebBDQoS7jjsLpsy5EZpDaTyzAb.jpg
