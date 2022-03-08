@@ -76,7 +76,7 @@ sections:
       title:
         textAlign: center
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     variant: variant-a
     title: Como funciona
     actions:
