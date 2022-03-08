@@ -93,7 +93,7 @@ presets:
       showAuthor: false
       showExcerpt: true
       showReadMoreLink: true
-      readMoreLinkLabel: Join adventure
+      readMoreLinkLabel: Saiba Mais
       styles:
         self:
           height: auto
