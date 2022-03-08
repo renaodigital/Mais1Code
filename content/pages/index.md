@@ -31,7 +31,7 @@ sections:
         iconPosition: right
         icon: arrowRight
         showIcon: true
-      - label: Learn more
+      - label: Whitepaper
         altText: ''
         url: /
         showIcon: false
