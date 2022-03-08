@@ -33,7 +33,7 @@ sections:
         showIcon: true
       - label: Whitepaper
         altText: ''
-        url: /
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
