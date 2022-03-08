@@ -272,7 +272,7 @@ metaTags:
     content: Mais Um Code
   - property: 'og:image'
     content: Impacto Social
-  - property: 'og:title'
+  - property: 'og:url'
     content: ''
 metaTitle: Mais 1 Code
 metaDescription: Reprogramando A Quebrada
