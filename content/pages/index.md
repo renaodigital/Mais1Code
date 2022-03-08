@@ -156,7 +156,7 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
-    title: Na mais um +1code trabalhamos o ensino Peer to Peer
+    title: Na mais um +1code trabalhamos o ensino Um a Um.
     text: >+
       ### onde você terá acesso a um professor voluntário, com uma a duas aulas
       por semana e suporte diário de nossa equipe.
