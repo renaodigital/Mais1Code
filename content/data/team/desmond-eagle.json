@@ -2,6 +2,7 @@
     "type": "Person",
     "image": {
         "type": "ImageBlock",
-        "altText": "Desmond Eagle photo"
+        "altText": "Desmond Eagle photo",
+        "url": "/images/favicon.png"
     }
 }
