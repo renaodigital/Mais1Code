@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: About our business
+    title: Projeto Crypto
     text: >-
       For us fishing is a life style. The connection to the waters is what makes
       us friends, and what makes us a family and it what makes us a business.
