@@ -107,5 +107,5 @@ metaDescription: Projeto Cripto
 socialImage: /images/RWOkme.jpg
 metaTags:
   - property: 'og:title'
-    content: ''
+    content: Blockchain
 ---
