@@ -3,7 +3,7 @@ title: WhitePaper
 layout: PageLayout
 sections:
   - type: TextSection
-    colors: colors-c
+    colors: colors-e
     variant: variant-a
     title: Projeto Crypto
     text: |+
