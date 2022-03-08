@@ -134,7 +134,7 @@ sections:
     colors: colors-e
     variant: variant-a
     text: |+
-      ### [Siga-nos no Instagram](https://www.instagram.com/mais1code/)
+      ## [Siga-nos no Instagram](https://www.instagram.com/mais1code/)
 
     styles:
       self:
