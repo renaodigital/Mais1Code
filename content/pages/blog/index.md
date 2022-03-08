@@ -45,7 +45,7 @@ bottomSections:
         justifyContent: center
       text:
         textAlign: center
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     images:
       - type: ImageBlock
