@@ -1,7 +1,6 @@
 {
     "type": "Person",
     "firstName": "Desmond",
-    "lastName": "Eagle",
     "image": {
         "type": "ImageBlock",
         "altText": "Desmond Eagle photo"
