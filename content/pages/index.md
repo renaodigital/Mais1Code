@@ -268,5 +268,5 @@ sections:
         borderStyle: solid
 addTitleSuffix: true
 metaTags: []
-metaTitle: Mais Um Code
+metaTitle: Mais 1 Code
 ---
