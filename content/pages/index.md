@@ -158,7 +158,7 @@ sections:
     backgroundSize: full
     title: Na mais um +1code trabalhamos o ensino Um a Um.
     text: >+
-      ### onde você terá acesso a um professor voluntário, com uma a duas aulas
+      ### Onde você terá acesso a um professor voluntário, com uma a duas aulas
       por semana e suporte diário de nossa equipe.
 
     actions:
