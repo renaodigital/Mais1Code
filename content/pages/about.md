@@ -103,4 +103,5 @@ sections:
     type: FeaturedPeopleSection
 addTitleSuffix: true
 metaTitle: WhitePaper
+metaDescription: Projeto Cripto
 ---
