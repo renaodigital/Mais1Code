@@ -66,7 +66,7 @@ sections:
   - elementId: ''
     variant: variant-c
     colors: colors-d
-    title: Our Team
+    title: Nosso Time
     subtitle: >-
       We’re a group of proffesional fisherman & friends, who love exploring the
       seas and sharing our experiences with the world.
