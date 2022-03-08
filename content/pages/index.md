@@ -55,7 +55,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: QuoteSection
-    colors: colors-d
+    colors: colors-c
     quote: |+
       ## **Reprogramando a Quebrada**
 
