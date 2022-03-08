@@ -112,7 +112,7 @@ presets:
           showAuthor: false
           showExcerpt: true
           showReadMoreLink: true
-          readMoreLinkLabel: Join adventure
+          readMoreLinkLabel: Saiba Mais
           posts:
             - content/pages/blog/post-two.md
             - content/pages/blog/post-three.md
