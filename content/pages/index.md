@@ -58,6 +58,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |+
+      # GRATUITAMENTE.
+
   - type: QuoteSection
     colors: colors-d
     quote: "## Por que aprender a programar\_**.**\n\n"
