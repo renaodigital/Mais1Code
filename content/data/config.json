@@ -31,7 +31,7 @@
             {
                 "type": "Button",
                 "label": "QUERO MENTORIA",
-                "url": "mailto:contato@mais1code.com.br",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdLq7-5G8MDD_eMunWjwbPeo2o-JhMI4U2IP6aRN6WwW7kNUg/viewform",
                 "altText": "QUERO MENTORIA",
                 "style": "secondary",
                 "showIcon": true,
