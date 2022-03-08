@@ -2,7 +2,6 @@
     "type": "Person",
     "firstName": "Time",
     "lastName": "Mais 1 Code",
-    "role": "Time fundador",
     "image": {
         "type": "ImageBlock",
         "altText": "Dianne Ameter photo"
