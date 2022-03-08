@@ -71,6 +71,7 @@ sections:
       Somos um grupo de profissionais e amigos, que adoram tecnologia e
       compartilhar nossas experiências com o mundo.
     people:
+      - content/data/team/person-hvtc9uilg.json
       - content/data/team/hilary-ouse.json
       - content/data/team/dianne-ameter.json
       - content/data/team/desmond-eagle.json
