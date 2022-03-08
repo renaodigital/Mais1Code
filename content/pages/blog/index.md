@@ -9,7 +9,7 @@ postFeed:
   showReadMoreLink: true
   readMoreLinkLabel: Join adventure
   variant: variant-c
-  colors: colors-b
+  colors: colors-a
   styles:
     self:
       width: narrow
