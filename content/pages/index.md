@@ -227,7 +227,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: address
+        - name: Comentarios
           label: Address
           hideLabel: true
           placeholder: Address
