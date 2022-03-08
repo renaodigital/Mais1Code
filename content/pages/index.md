@@ -59,7 +59,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      # GRATUITAMENTE.
+      #
 
   - type: QuoteSection
     colors: colors-d
