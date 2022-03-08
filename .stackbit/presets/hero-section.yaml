@@ -10,7 +10,7 @@ presets:
       text: ''
       actions:
         - type: Button
-          label: Saiba Maise
+          label: Saiba Mais
           showIcon: true
           icon: arrowRight
           style: primary
