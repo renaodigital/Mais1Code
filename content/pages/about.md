@@ -104,4 +104,5 @@ sections:
 addTitleSuffix: true
 metaTitle: WhitePaper
 metaDescription: Projeto Cripto
+socialImage: /images/RWOkme.jpg
 ---
