@@ -2,19 +2,6 @@
 title: About
 layout: PageLayout
 sections:
-  - type: DividerSection
-    colors: colors-d
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-0
-          - pb-4
-          - pl-0
-          - pr-0
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: TextSection
     colors: colors-d
     variant: variant-a
