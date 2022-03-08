@@ -158,7 +158,7 @@ sections:
     backgroundSize: full
     title: Na mais um +1code trabalhamos o ensino Peer to Peer
     text: >+
-      ## (um para um), onde você terá acesso a um professor voluntário, com uma
+      ### (um para um), onde você terá acesso a um professor voluntário, com uma
       a duas aulas por semana e suporte diário de nossa equipe.
 
     actions:
