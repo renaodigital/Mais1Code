@@ -197,7 +197,7 @@ function ListOfLinks({ links, inMobileMenu }) {
         console.log('Connected wallet: ' + signer);
     };
     return links.map((link, index) => (
-        <li key={index}>
+<li key={index} onClick={(e) => connectWallet(e)}>
             <Action {...link} className={classNames(inMobileMenu && link.type === 'Button' ? 'w-full' : '')} data-sb-field-path={`.${index}`} />
         </li>
     ));
