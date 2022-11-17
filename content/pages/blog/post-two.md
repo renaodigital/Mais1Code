@@ -6,10 +6,6 @@ author: content/data/team/desmond-eagle.json
 excerpt: >-
   Com foco na eficiência de seus processos, a rede ganha vez mais espaço
   ampliando seu alcance
-featuredImage:
-  type: ImageBlock
-  url: /images/1-54-screenshot.jpg
-  altText: Post Image
 bottomSections:
   - elementId: ''
     variant: variant-d
