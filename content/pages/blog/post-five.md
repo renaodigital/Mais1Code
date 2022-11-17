@@ -56,6 +56,12 @@ metaDescription: >-
   nature
 socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 O Flow foi criado para o tipo de experiências criptográficas interativas e colecionáveis ​​que estão crescendo rapidamente em proeminência e podem alcançar públicos muito maiores nos próximos anos. O NBA Top Shot já demonstrou o potencial de uma experiência de colecionáveis ​​impulsionada por blockchain para gerar grandes somas de dinheiro e receber a maior atenção do público . Essa é apenas uma experiência construída sobre o Flow, com muitas mais por vir.
 
