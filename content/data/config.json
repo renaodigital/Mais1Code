@@ -30,7 +30,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Connect Wallet",
+                "label": "Se Inscreva na ",
                 "altText": "Connect Wallet",
                 "style": "secondary",
                 "showIcon": true,
