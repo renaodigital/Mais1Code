@@ -58,7 +58,7 @@ addTitleSuffix: true
 featuredImage:
   type: ImageBlock
   url: /images/flow-nodes-chart (1).png
-  altText: altText of the image
+  altText: flow-nodes-chart
   caption: Caption of the image
   elementId: ''
 ---
