@@ -46,7 +46,7 @@
         "logo": {
             "url": "/images/co flow.png",
             "altText": "flow",
-            "caption": "Caption of the image",
+            "caption": "flow",
             "elementId": "",
             "type": "ImageBlock"
         },
