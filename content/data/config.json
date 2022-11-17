@@ -30,7 +30,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Se Inscreva na ",
+                "label": "RECEBA TOKENS",
                 "altText": "Connect Wallet",
                 "style": "secondary",
                 "showIcon": true,
