@@ -31,7 +31,7 @@
             {
                 "type": "Button",
                 "label": "RECEBA TOKENS",
-                "altText": "Connect Wallet",
+                "altText": "RECEBA TOKENS",
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
