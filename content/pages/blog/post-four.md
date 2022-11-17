@@ -5,10 +5,6 @@ date: '2022-02-01'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 excerpt: Mais sobre o token flow
-featuredImage:
-  type: ImageBlock
-  url: /images/Screenshot_16.png
-  altText: Post Thumbnail Image
 media:
   type: ImageBlock
   altText: Post Image
