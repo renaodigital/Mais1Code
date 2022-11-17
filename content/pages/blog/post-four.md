@@ -58,25 +58,33 @@ bottomSections:
         borderStyle: solid
 addTitleSuffix: true
 ---
-## Chega mais **.**
+Flow (FLOW) é uma criptomoeda e plataforma criada para oferecer suporte a itens como colecionáveis ​​NFT e jogos blockchains em grande escala.
 
-Foco no Foco
+Quando o CryptoKitties , um dos primeiros projetos de token não fungível ( NFT ), interrompeu o blockchain [Ethereum](https://portalcripto.com.br/criptomoedas/ETH/ethereum/) no final de 2017 devido a um imenso congestionamento, o desenvolvedor Dapper Labs aprendeu em primeira mão que os blockchains de geração atual não foram criados para lidar com essa demanda .
 
-Na mais um +1code trabalhamos o ensino Peer to Peer (um para um), onde você terá acesso a um professor voluntário, com uma a duas aulas por semana e suporte diário de nossa equipe.
+Com os NFTs – [tokens](https://portalcripto.com.br/criptomoedas/) comprovadamente únicos que podem ser vinculados ao conteúdo digital – se tornando cada vez mais populares, algo precisava ser feito.
 
-### Programação
+Em vez de simplesmente encontrar outro lar para seu aplicativo descentralizado ( dapp ) ou esperar que as soluções de escalonamento Ethereum amadureçam, Dapper decidiu construir o tipo de blockchain no qual ele e outros desenvolvedores poderiam confiar.
 
-Conhecer a fundo as principais linguagens de programação
+O resultado é o Flow, um blockchain criado para oferecer suporte a itens como colecionáveis ​​NFT e jogos criptográficos em grande escala.
 
-### Banco de Dados
+Em breve, os CryptoKitties migrarão para o Flow , e com o crescente sucesso do Dapper’s NBA Top Shot , e muitos outros desenvolvedores assinando para construir com o Flow em meio ao boom do NFT , pode vir a ser um dos blockchains líderes de tais criações.
 
-Conhecimento avançado em banco de dados
+Veja o que é Flow, como funciona e como obter o token FLOW.
 
-### Design
+## O que é Flow (FLOW) token?
 
-Conhecimentos em User interface e User experience
+Índice de conteúdo
 
-### Muita prática
+*   [O que é Flow (FLOW) token?](https://portalcripto.com.br/o-que-e-flow-flow-token-blockchain-construido-para-nfts/#O_que_e_Flow_FLOW_token)
 
-Teoria, mas também muita mão na massa
+*   [Como funciona o Flow?](https://portalcripto.com.br/o-que-e-flow-flow-token-blockchain-construido-para-nfts/#Como_funciona_o_Flow)
+
+*   [O que há de tão especial no Flow?](https://portalcripto.com.br/o-que-e-flow-flow-token-blockchain-construido-para-nfts/#O_que_ha_de_tao_especial_no_Flow)
+
+*   [Conclusão](https://portalcripto.com.br/o-que-e-flow-flow-token-blockchain-construido-para-nfts/#Conclusao)
+
+O Flow é um blockchain projetado para escalonamento extensivo sem o uso de técnicas de fragmentação , fornecendo transações rápidas e de baixo custo que fazem sentido para dapps como marketplaces NFT e videogames com infusão de criptografia.
+
+Conforme mencionado, o Flow vem do Dapper Labs, que decidiu resolver seu problema de congestionamento de blockchain construindo um preparado para jogos e outras experiências interativas. Dapper agora está usando o Flow para todos os seus próprios projetos, incluindo NBA Top Shot, mas está aberto para outros desenvolvedores também.
 
