@@ -21,7 +21,7 @@ bottomSections:
   - elementId: ''
     variant: variant-d
     colors: colors-d
-    title: Próximas Artigos
+    title: Próximos Artigos
     showDate: true
     showAuthor: false
     showExcerpt: true
