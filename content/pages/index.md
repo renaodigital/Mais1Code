@@ -18,7 +18,7 @@ sections:
         iconPosition: right
         icon: arrowRight
         showIcon: true
-      - label: Whitepaper
+      - label: Novidades
         altText: ''
         url: /blog
         showIcon: false
