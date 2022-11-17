@@ -114,5 +114,6 @@
             }
         }
     },
-    "defaultMetaTags": []
+    "defaultMetaTags": [],
+    "titleSuffix": "Flow Blockchain"
 }
