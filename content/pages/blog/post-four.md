@@ -53,6 +53,12 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Flow (FLOW) é uma criptomoeda e plataforma criada para oferecer suporte a itens como colecionáveis ​​NFT e jogos blockchains em grande escala.
 
