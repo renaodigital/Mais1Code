@@ -78,7 +78,7 @@ sections:
   - elementId: ''
     colors: colors-a
     variant: variant-a
-    title: Como funciona
+    title: Artigos
     actions:
       - type: Link
         label: Veja tudo!
