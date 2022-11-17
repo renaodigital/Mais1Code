@@ -7,10 +7,6 @@ excerpt: >-
   A Flow criou uma rede blockchain de operação heterogênea , com paralelismo e
   escalabilidade que cresce com o número de nós na rede. O primeiro seria o
   sistema atual de muitos blockchains, enquanto o segundo seria Flow.
-featuredImage:
-  type: ImageBlock
-  url: /images/2021-08-19-image-33-be13f7df.webp
-  altText: Post Image
 media:
   type: ImageBlock
   altText: Post Image
