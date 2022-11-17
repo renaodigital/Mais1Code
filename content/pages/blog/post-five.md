@@ -4,10 +4,6 @@ layout: PostLayout
 date: '2022-02-02'
 author: content/data/team/hugh-saturation.json
 excerpt: 'Assim que iniciar a abertura de turmas, você será chamado(a)'
-featuredImage:
-  type: ImageBlock
-  url: /images/jovem-programacao-celular-vaquinha-3.jpg
-  altText: Post Image
 media:
   type: ImageBlock
   altText: Post Image
