@@ -1,5 +1,32 @@
 ---
-title: Blockchain construído para NFTs
+title: >-
+  Flow (FLOW) é uma criptomoeda e plataforma criada para oferecer suporte a
+  itens como colecionáveis ​​NFT e jogos blockchains em grande escala.Quando o
+  CryptoKitties , um dos primeiros projetos de token não fungível ( NFT ),
+  interrompeu o blockchain Ethereum no final de 2017 devido a um imenso
+  congestionamento, o desenvolvedor Dapper Labs aprendeu em primeira mão que os
+  blockchains de geração atual não foram criados para lidar com essa demanda
+  .Com os NFTs – tokens comprovadamente únicos que podem ser vinculados ao
+  conteúdo digital – se tornando cada vez mais populares, algo precisava ser
+  feito.Em vez de simplesmente encontrar outro lar para seu aplicativo
+  descentralizado ( dapp ) ou esperar que as soluções de escalonamento Ethereum
+  amadureçam, Dapper decidiu construir o tipo de blockchain no qual ele e outros
+  desenvolvedores poderiam confiar.O resultado é o Flow, um blockchain criado
+  para oferecer suporte a itens como colecionáveis ​​NFT e jogos criptográficos
+  em grande escala.Em breve, os CryptoKitties migrarão para o Flow , e com o
+  crescente sucesso do Dapper’s NBA Top Shot , e muitos outros desenvolvedores
+  assinando para construir com o Flow em meio ao boom do NFT , pode vir a ser um
+  dos blockchains líderes de tais criações.Veja o que é Flow, como funciona e
+  como obter o token FLOW.O que é Flow (FLOW) token?Índice de conteúdoO que é
+  Flow (FLOW) token?Como funciona o Flow?O que há de tão especial no
+  Flow?ConclusãoO Flow é um blockchain projetado para escalonamento extensivo
+  sem o uso de técnicas de fragmentação , fornecendo transações rápidas e de
+  baixo custo que fazem sentido para dapps como marketplaces NFT e videogames
+  com infusão de criptografia.Conforme mencionado, o Flow vem do Dapper Labs,
+  que decidiu resolver seu problema de congestionamento de blockchain
+  construindo um preparado para jogos e outras experiências interativas. Dapper
+  agora está usando o Flow para todos os seus próprios projetos, incluindo NBA
+  Top Shot, mas está aberto para outros desenvolvedores também.
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
