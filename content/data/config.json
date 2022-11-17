@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/flow-flow-logo.png",
     "header": {
         "headerVariant": "variant-b",
         "isSticky": true,
