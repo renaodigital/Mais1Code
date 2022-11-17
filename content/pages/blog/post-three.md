@@ -4,8 +4,9 @@ layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/desmond-eagle.json
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A Flow criou uma rede blockchain de operação heterogênea , com paralelismo e
+  escalabilidade que cresce com o número de nós na rede. O primeiro seria o
+  sistema atual de muitos blockchains, enquanto o segundo seria Flow.
 featuredImage:
   type: ImageBlock
   url: /images/2021-08-19-image-33-be13f7df.webp
