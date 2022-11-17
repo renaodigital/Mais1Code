@@ -60,7 +60,7 @@ featuredImage:
   type: ImageBlock
   url: /images/flow collection consensus execution varification.png
   altText: flow collection consensus execution varification
-  caption: Caption of the image
+  caption: flow collection consensus execution varification
   elementId: ''
 ---
 O Flow foi criado para o tipo de experiências criptográficas interativas e colecionáveis ​​que estão crescendo rapidamente em proeminência e podem alcançar públicos muito maiores nos próximos anos. O NBA Top Shot já demonstrou o potencial de uma experiência de colecionáveis ​​impulsionada por blockchain para gerar grandes somas de dinheiro e receber a maior atenção do público . Essa é apenas uma experiência construída sobre o Flow, com muitas mais por vir.
