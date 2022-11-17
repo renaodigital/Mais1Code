@@ -115,5 +115,6 @@
         }
     },
     "defaultMetaTags": [],
-    "titleSuffix": "Flow Blockchain LATAM"
+    "titleSuffix": "Flow Blockchain LATAM",
+    "defaultSocialImage": "/images/flow-Blockchain.jpg"
 }
