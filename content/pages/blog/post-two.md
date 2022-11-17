@@ -1,5 +1,5 @@
 ---
-title: O que é Flow (FLOW) token?
+title: Flow vem avançando
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
