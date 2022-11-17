@@ -56,7 +56,7 @@ addTitleSuffix: true
 featuredImage:
   type: ImageBlock
   url: /images/flovatar.png
-  altText: altText of the image
+  altText: flovatar
   caption: Caption of the image
   elementId: ''
 ---
