@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-b
-    title: +1 Code
+    title: Flow Code
     subtitle: >-
       Transformando jovens periféricos ou moradores de favela em programadores
       GRATUITAMENTE.
