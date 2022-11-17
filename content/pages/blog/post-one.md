@@ -14,11 +14,6 @@ excerpt: >-
   DApps, tokens fungíveis e tokens não fungíveis , bem como mercados. Isso
   catapultou o preço do token FLOW de impressionantes US $0,1 para mais de $30
   nos primeiros meses de 2021.
-featuredImage:
-  type: ImageBlock
-  url: >-
-    /images/Metaverse-Microsoft-relies-on-teleworking-in-virtual-spaces-1140x570.jpg
-  altText: Post thumbnail image
 media:
   type: ImageBlock
   altText: Post Image
