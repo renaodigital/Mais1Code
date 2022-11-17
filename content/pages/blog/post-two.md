@@ -56,9 +56,32 @@ bottomSections:
         borderStyle: solid
 addTitleSuffix: true
 ---
-Enquanto a maioria dos criptoativos está passando por um momento de tensão, com quedas sequenciais de valor de mercado, uma moeda tem se destacado: a Flow, cripto de uma rede blockchain com foco para NFTs e blockchain games.
+Flow (FLOW) é uma criptomoeda e plataforma criada para oferecer suporte a itens como colecionáveis ​​NFT e jogos blockchains em grande escala.
 
-O token, que leva o mesmo nome de sua rede blockchain, se tornou uma das principais apostas do mercado em 2022, permanecendo
+Quando o CryptoKitties , um dos primeiros projetos de token não fungível ( NFT ), interrompeu o blockchain [Ethereum](https://portalcripto.com.br/criptomoedas/ETH/ethereum/) no final de 2017 devido a um imenso congestionamento, o desenvolvedor Dapper Labs aprendeu em primeira mão que os blockchains de geração atual não foram criados para lidar com essa demanda .
 
-Este trecho é parte de conteúdo que pode ser compartilhado utilizando o link https://valor.globo.com/patrocinado/mercado-bitcoin/noticia/2022/09/15/blockchain-flow-ganha-forca-no-mercado-cripto.ghtml ou as ferramentas oferecidas na página.
-Textos, fotos, artes e vídeos do Valor estão protegidos pela legislação brasileira sobre direito autoral. Não reproduza o conteúdo do jornal em qualquer meio de comunicação, eletrônico ou impresso, sem autorização do Valor (falecom@valor.com.br). Essas regras têm como objetivo proteger o investimento que o Valor faz na qualidade de seu jornalismo.
+Com os NFTs – [tokens](https://portalcripto.com.br/criptomoedas/) comprovadamente únicos que podem ser vinculados ao conteúdo digital – se tornando cada vez mais populares, algo precisava ser feito.
+
+Em vez de simplesmente encontrar outro lar para seu aplicativo descentralizado ( dapp ) ou esperar que as soluções de escalonamento Ethereum amadureçam, Dapper decidiu construir o tipo de blockchain no qual ele e outros desenvolvedores poderiam confiar.
+
+O resultado é o Flow, um blockchain criado para oferecer suporte a itens como colecionáveis ​​NFT e jogos criptográficos em grande escala.
+
+Em breve, os CryptoKitties migrarão para o Flow , e com o crescente sucesso do Dapper’s NBA Top Shot , e muitos outros desenvolvedores assinando para construir com o Flow em meio ao boom do NFT , pode vir a ser um dos blockchains líderes de tais criações.
+
+Veja o que é Flow, como funciona e como obter o token FLOW.
+
+## O que é Flow (FLOW) token?
+
+Índice de conteúdo
+
+*   [O que é Flow (FLOW) token?](https://portalcripto.com.br/o-que-e-flow-flow-token-blockchain-construido-para-nfts/#O_que_e_Flow_FLOW_token)
+
+*   [Como funciona o Flow?](https://portalcripto.com.br/o-que-e-flow-flow-token-blockchain-construido-para-nfts/#Como_funciona_o_Flow)
+
+*   [O que há de tão especial no Flow?](https://portalcripto.com.br/o-que-e-flow-flow-token-blockchain-construido-para-nfts/#O_que_ha_de_tao_especial_no_Flow)
+
+*   [Conclusão](https://portalcripto.com.br/o-que-e-flow-flow-token-blockchain-construido-para-nfts/#Conclusao)
+
+O Flow é um blockchain projetado para escalonamento extensivo sem o uso de técnicas de fragmentação , fornecendo transações rápidas e de baixo custo que fazem sentido para dapps como marketplaces NFT e videogames com infusão de criptografia.
+
+Conforme mencionado, o Flow vem do Dapper Labs, que decidiu resolver seu problema de congestionamento de blockchain construindo um preparado para jogos e outras experiências interativas. Dapper agora está usando o Flow para todos os seus próprios projetos, incluindo NBA Top Shot, mas está aberto para outros desenvolvedores também.
