@@ -1,5 +1,5 @@
 ---
-title: Você faz seu cadastro GRATUITAMENTE
+title: O que há de tão especial no Flow?
 layout: PostLayout
 date: '2022-02-02'
 author: content/data/team/hugh-saturation.json
