@@ -4,8 +4,16 @@ layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
 excerpt: >-
-  Deep sea fishing, also called offshore fishing. Nullam viverra justo arcu,
-  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
+  Surgiu no dia 15 de agosto de 2019 a Flow é uma blockchain que oferece suporte
+  para criação , principalmente games em blockchain e NFTs. Seu token nativo é o
+  FLOW. A Flow foi construída desde o início para suportar ecossistemas de
+  aplicativos e jogos de alto desempenho sem comprometer a descentralização.
+  Após o sucesso desta primeira venda de tokens, em setembro de 2019.O trabalho
+  continuou e em 6 de agosto de 2020, outra venda de tokens privados foi
+  realizada. Na verdade, hoje é possível enviar e receber criptomoedas, criar
+  DApps, tokens fungíveis e tokens não fungíveis , bem como mercados. Isso
+  catapultou o preço do token FLOW de impressionantes US $0,1 para mais de $30
+  nos primeiros meses de 2021.
 featuredImage:
   type: ImageBlock
   url: >-
