@@ -1,14 +1,5 @@
 ---
-title: >-
-  Blockchain Flow ganha força no mercado criptoEste trecho é parte de conteúdo
-  que pode ser compartilhado utilizando o link
-  https://valor.globo.com/patrocinado/mercado-bitcoin/noticia/2022/09/15/blockchain-flow-ganha-forca-no-mercado-cripto.ghtml
-  ou as ferramentas oferecidas na página.Textos, fotos, artes e vídeos do Valor
-  estão protegidos pela legislação brasileira sobre direito autoral. Não
-  reproduza o conteúdo do jornal em qualquer meio de comunicação, eletrônico ou
-  impresso, sem autorização do Valor (falecom@valor.com.br). Essas regras têm
-  como objetivo proteger o investimento que o Valor faz na qualidade de seu
-  jornalismo.
+title: 'Blockchain Flow ganha força no mercado '
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
