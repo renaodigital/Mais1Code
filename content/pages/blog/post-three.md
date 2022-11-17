@@ -1,5 +1,5 @@
 ---
-title: As aulas ocorrerem semanalmente e terá um professor(a) exclusivo para você
+title: Como a rede blockchain flow funciona?
 layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/desmond-eagle.json
