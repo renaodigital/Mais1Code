@@ -114,7 +114,13 @@
             }
         }
     },
-    "defaultMetaTags": [],
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": ""
+        }
+    ],
     "titleSuffix": "Flow Blockchain LATAM",
     "defaultSocialImage": "/images/flow-Blockchain.jpg"
 }
