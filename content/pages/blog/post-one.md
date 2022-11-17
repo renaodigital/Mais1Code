@@ -65,7 +65,7 @@ addTitleSuffix: true
 featuredImage:
   type: ImageBlock
   url: /images/flow-Blockchain.jpg
-  altText: altText of the image
+  altText: Flow Blockchain
   caption: Caption of the image
   elementId: ''
 ---
