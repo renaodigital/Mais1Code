@@ -59,7 +59,7 @@ addTitleSuffix: true
 featuredImage:
   type: ImageBlock
   url: /images/flow collection consensus execution varification.png
-  altText: altText of the image
+  altText: flow collection consensus execution varification
   caption: Caption of the image
   elementId: ''
 ---
