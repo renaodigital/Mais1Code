@@ -66,7 +66,7 @@ featuredImage:
   type: ImageBlock
   url: /images/flow-Blockchain.jpg
   altText: Flow Blockchain
-  caption: Caption of the image
+  caption: Flow Blockchain
   elementId: ''
 ---
 [Saiba mais o que é blockchain](https://www.web3dev.com.br/diegofornalha/blockchain-13og)
