@@ -57,7 +57,7 @@ featuredImage:
   type: ImageBlock
   url: /images/flovatar.png
   altText: flovatar
-  caption: Caption of the image
+  caption: flovatar
   elementId: ''
 ---
 Flow (FLOW) é uma criptomoeda e plataforma criada para oferecer suporte a itens como colecionáveis ​​NFT e jogos blockchains em grande escala.
