@@ -1,5 +1,5 @@
 ---
-title: 'Blockchain Flow ganha força no mercado '
+title: O que é Flow (FLOW) token? Blockchain construído para NFTs
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
