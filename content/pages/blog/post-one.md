@@ -1,7 +1,5 @@
 ---
-title: >-
-  Após 6 meses vocês estará preparado(a) para dar os primeiros passos rumo ao
-  mercado de trabalho
+title: O que é Flow
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
