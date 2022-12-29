@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Sobre a atualização padrão do token Flow FT & NFT
 addTitleSuffix: true
 metaTags: []
 title: Sobre a atualização padrão do token Flow FT && NFT
