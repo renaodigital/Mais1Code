@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Staking de Flow pelo Navegador Diego Fornalha.png
-  altText: Post image
+  altText: Staking de Flow pelo Navegador
 bottomSections: []
 metaDescription: null
 socialImage: null
