@@ -7,8 +7,19 @@ title: Versão beta aberta do nó de arquivo da comunidade Flow
 colors: colors-d
 date: '2023-12-07'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  O nó de arquivo é um tipo de nó da cadeia de blocos Flow que é responsável por
+  armazenar e indexar o protocolo e o estado de execução da cadeia. Ele permite
+  consultas somente leitura, como a execução de scripts que precisam de acesso a
+  valores do registro do estado de execução. Ele é projetado para fornecer uma
+  solução escalável e eficiente para acessar o histórico do estado de execução
+  da cadeia Flow, permitindo a consulta de detalhes da conta e execução de
+  scripts em qualquer bloco desde o início do spork atual até o último bloco
+  selado. O nó de arquivo é útil para dApps que precisam de acesso a dados
+  históricos, ferramentas de análise e auditoria em cadeia que precisam de
+  acesso a dados históricos e nós diferentes para recuperação de dados. Ele é
+  diferente de outros tipos de nós, como o nó de acesso e o nó observador, que
+  são responsáveis por fornecer acesso ao estado atual da cadeia e aos dados do
+  protocolo, respectivamente.
 featuredImage:
   type: ImageBlock
   url: >-
