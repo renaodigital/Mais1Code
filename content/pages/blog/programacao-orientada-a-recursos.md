@@ -33,7 +33,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: Programação orientada a recursos
   caption: >-
     O Cadence é uma linguagem de programação orientada a recursos de alto nível
     desenvolvida pela equipe da plataforma blockchain Flow. Ela foi inspirada no
