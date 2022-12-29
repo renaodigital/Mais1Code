@@ -8,6 +8,7 @@ excerpt: Mais sobre o token flow
 media:
   type: ImageBlock
   altText: Post Image
+  url: /images/diegofornalha staking flow blockchain.png
 bottomSections:
   - elementId: ''
     variant: variant-d
