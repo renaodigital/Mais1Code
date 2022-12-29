@@ -2,7 +2,6 @@
 title: O que há de tão especial no Flow?
 layout: PostLayout
 date: '2022-02-02'
-author: content/data/team/hugh-saturation.json
 excerpt: 'Assim que iniciar a abertura de turmas, você será chamado(a)'
 media:
   type: ImageBlock
