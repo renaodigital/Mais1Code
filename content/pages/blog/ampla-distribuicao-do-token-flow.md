@@ -69,7 +69,7 @@ metaDescription: >-
   a catalisar o acesso de novas comunidades à blockchain e aos aplicativos
   descentralizados, criando e beneficiando casos de uso reais. A FLOW reunirá
   todas as comunidades que constroem a rede para criar e compartilhar valor.
-socialImage: null
+socialImage: /images/Ampla distribuição do token flow diego fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 A distribuição do token nativo é fundamental para a descentralização da rede e o sucesso a longo prazo.
