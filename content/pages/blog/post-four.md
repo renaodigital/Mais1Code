@@ -1,7 +1,7 @@
 ---
 title: O que é um STAKING na blockchain flow?
 layout: PostLayout
-date: '2022-02-01'
+date: '2022-01-01'
 colors: colors-a
 author: content/data/team/hilary-ouse.json
 excerpt: O que é um STAKING na blockchain flow?
