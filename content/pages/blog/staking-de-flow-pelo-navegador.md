@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Staking de Flow pelo Navegador
 addTitleSuffix: true
 metaTags: []
 title: Staking de Flow pelo Navegador
