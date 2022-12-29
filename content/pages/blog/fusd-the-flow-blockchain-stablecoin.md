@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/FUSD o stablecoin da flow Blockchain diegofornalha.png
-  altText: Post image
+  altText: FUSD o stablecoin da flow Blockchain
 bottomSections: []
 metaDescription: null
 socialImage: null
