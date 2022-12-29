@@ -58,12 +58,20 @@ metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+![Image description](https://web3dev-forem-production.s3.amazonaws.com/uploads/articles/ue3ouyrh5n6127516rks.png)
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Os criadores são mais do que apenas os responsáveis por criar o conteúdo que amamos consumir, eles são os responsáveis por definir a cultura em uma infinidade de áreas. Mas nem sempre foi fácil para eles valorizarem o próprio trabalho. A tecnologia descentralizada pode dar poder aos criadores para criar novas experiências, monetizar seu conteúdo e criar conexões mais profundas no mundo digital.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+A Dapper Labs está na vanguarda da tecnologia web3 desde 2017, quando começamos a revolução das NFTs (non-fungible tokens ou tokens não-fungíveis, em tradução livre). Acreditávamos que as NFTs seriam uma das verdadeiras superpotências da web3, um mundo onde as pessoas podem possuir e trocar seus ativos digitais sem limites, e bilhões de produtos e serviços são predominantemente trocados on-line, de pessoa para pessoa.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Desde então, mostramos como é possível redefinir a criatividade, os fãs e as experiências dos consumidores na blockchain através de produtos incríveis como NBA Top Shot, CryptoKitties, NFL All Day, Dapper Wallet e muito mais. Esses produtos mudaram o curso da história da internet, abrindo um setor completamente novo e introduzindo o web3 diretamente para milhões de usuários.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Acreditamos que ainda estamos apenas raspando a superfície do que é possível com as NFTs.
+
+Para os criadores, as NFTs não só são um novo meio para trocar e expressar criatividade, mas também ampliam as possibilidades de experiências que podem ser criadas.
+
+Além disso, elas oferecem novas oportunidades significativas de monetização e visibilidade sobre quem são seus maiores fãs.
+
+Para as comunidades, as NFTs são incrivelmente poderosas para permitir participação, envolvimento, vínculo e co-criação, e estão se tornando cada vez mais profundas e multifacetadas nas experiências que oferecem.
+
+Para fãs, colecionadores e usuários, as NFTs permitem apoiar criadores e comunidades, expressar sua própria individualidade ou fãs e desbloquear novas e emocionantes viagens digitais.
