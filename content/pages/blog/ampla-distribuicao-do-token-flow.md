@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Ampla distribuição do token flow diego fornalha.png
-  altText: Post thumbnail image
+  altText: Ampla distribuição do token flow
   caption: ''
 media:
   type: ImageBlock
