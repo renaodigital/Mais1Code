@@ -13,7 +13,7 @@ featuredImage:
   url: >-
     /images/Como construir um Dapp para cunhagem de NFT na Flow
     diegofornalha.png
-  altText: Post thumbnail image
+  altText: Como construir um Dapp para cunhagem de NFT na Flow
   caption: ''
 media:
   type: ImageBlock
