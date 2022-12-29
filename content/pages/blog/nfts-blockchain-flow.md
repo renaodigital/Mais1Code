@@ -59,7 +59,7 @@ media:
     incluindo a criação de um contrato inteligente, o registro do NFT e o
     processo de cunhagem/mintagem.
 bottomSections: []
-metaDescription: null
+metaDescription: NFTs Blockchain flow
 socialImage: /images/NFTs Blockchain flow diego fornalha.png
 ---
 Os tokens não fungíveis, ou NFTs, são ativos digitais exclusivos que estão ganhando popularidade no mundo da blockchain e da criptomoeda.
