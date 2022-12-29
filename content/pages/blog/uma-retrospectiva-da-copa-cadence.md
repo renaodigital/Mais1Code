@@ -7,8 +7,15 @@ title: Uma retrospectiva da Copa Cadence
 colors: colors-d
 date: '2022-12-24'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A Cadence Cup foi uma série de desafios que incentivavam os participantes a
+  explorar as funcionalidades do Cadence, uma linguagem de programação para
+  contratos inteligentes na plataforma Flow. Cada rodada da Cadence Cup
+  apresentava um tema específico, como cunhagem de NFTs (non-fungible tokens) ou
+  mecanismos de votação, e os participantes eram convidados a criar projetos que
+  exploravam esses temas de maneira criativa. As submissões eram avaliadas por
+  um júri e os vencedores recebiam prêmios. Os links fornecidos no texto dão
+  mais detalhes sobre cada rodada da Cadence Cup, incluindo os resultados finais
+  e as submissões dos participantes.
 featuredImage:
   type: ImageBlock
   url: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
