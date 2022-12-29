@@ -21,7 +21,7 @@ excerpt: >-
   têm, o que pode ajudar a evitar erros no código e a torná-lo mais legível.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Opcionais em Cadence diegofornalha.png
   altText: Post thumbnail image
   caption: ''
 media:
