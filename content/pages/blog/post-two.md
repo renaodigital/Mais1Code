@@ -3,9 +3,6 @@ title: migrar
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
-excerpt: >-
-  Com foco na eficiência de seus processos, a rede ganha vez mais espaço
-  ampliando seu alcance
 bottomSections:
   - type: DividerSection
     colors: colors-d
