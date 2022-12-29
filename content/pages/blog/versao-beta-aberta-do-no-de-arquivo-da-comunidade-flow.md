@@ -14,7 +14,7 @@ featuredImage:
   url: >-
     /images/Versão beta aberta do nó de arquivo da comunidade Flow
     Diegofornalha.png
-  altText: Post thumbnail image
+  altText: Versão beta aberta do nó de arquivo da comunidade Flow
   caption: ''
 media:
   type: ImageBlock
