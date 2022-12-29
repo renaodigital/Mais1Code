@@ -53,12 +53,6 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
-featuredImage:
-  type: ImageBlock
-  url: /images/flovatar.png
-  altText: flovatar
-  caption: flovatar
-  elementId: ''
 ---
 Flow é uma rede global de computadores que trabalham juntos para manter a segurança e a integridade dos dados de seus usuários.
 
