@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Portto e Flow Blockchain diego fornalha.png
   altText: Portto e Flow Blockchain
 bottomSections: []
 metaDescription: null
