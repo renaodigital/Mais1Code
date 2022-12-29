@@ -51,7 +51,9 @@ metaDescription: >-
   desenvolvimento e as ferramentas disponíveis, praticar a escrita de código na
   linguagem de programação Cadence e participar da comunidade Flow e interagir
   com outros desenvolvedores.
-socialImage: null
+socialImage: >-
+  /images/5 Dicas pra quem quer aprender sobre a blockchain Flow
+  diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 [![](https://static.wixstatic.com/media/704318ee9be94acabf28919a734951b8.jpg/v1/fill/w\_740%2Ch\_494%2Cal_c%2Cq\_85%2Cusm\_0.66\_1.00\_0.01%2Cenc_auto/704318ee9be94acabf28919a734951b8.jpg)](https://static.wixstatic.com/media/704318ee9be94acabf28919a734951b8.jpg/v1/fill/w\_740%2Ch\_494%2Cal_c%2Cq\_85%2Cusm\_0.66\_1.00\_0.01%2Cenc_auto/704318ee9be94acabf28919a734951b8.jpg)
