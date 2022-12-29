@@ -2,9 +2,6 @@
 title: Migrar
 layout: PostLayout
 date: '2022-02-02'
-media:
-  type: ImageBlock
-  altText: Post Image
 bottomSections: []
 metaDescription: >-
   Sunset fishing is a beautiful time of day to relax and get in touch with
