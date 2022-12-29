@@ -25,7 +25,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Tomando seus primeiros passos com Cadence diegofornalha.png
-  altText: Post image
+  altText: Tomando seus primeiros passos com Cadence
 bottomSections: []
 metaDescription: null
 socialImage: null
