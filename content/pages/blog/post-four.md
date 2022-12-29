@@ -77,6 +77,7 @@ metaDescription: >-
 metaTags:
   - type: MetaTag
     content: ''
+    property: 'twitter:image'
 ---
 Flow é uma rede global de computadores que trabalham juntos para manter a segurança e a integridade dos dados de seus usuários.
 
