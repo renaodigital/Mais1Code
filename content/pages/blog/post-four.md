@@ -54,6 +54,12 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Flow é uma rede global de computadores que trabalham juntos para manter a segurança e a integridade dos dados de seus usuários.
 
