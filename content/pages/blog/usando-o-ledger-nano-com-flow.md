@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Usando o Ledger Nano com Flow
 addTitleSuffix: true
 metaTags: []
 title: Usando o Ledger Nano com Flow
