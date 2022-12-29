@@ -40,7 +40,7 @@ metaDescription: >-
   para ser centrada no consumidor e amigável ao desenvolvedor, permitindo
   integração fácil com o jogo e uma conta Flow anônima criada automaticamente
   para os jogadores.
-socialImage: null
+socialImage: /images/Chainmonsters Um Crypto Game da Flow Blockchain Diego Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 [Chainmonsters](http://playchainmonsters.com/) , desenvolvido pela [B-Side Games](http://bsidegames.com/) , é um novo e emocionante jogo multijogador multiplataforma on-line, onde você captura, batalha, troca e compete com monstros digitais em uma experiência massiva de mundo aberto multijogador.
