@@ -38,7 +38,7 @@ featuredImage:
     transações ao usar dApps compatíveis com o Flow.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
   altText: Post image
 bottomSections: []
 metaDescription: null
