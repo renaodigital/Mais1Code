@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Chainmonsters Um Crypto Game da Flow Blockchain Diego Fornalha.png
-  altText: Post thumbnail image
+  altText: Chainmonsters Um Crypto Game da Flow Blockchain
   caption: ''
 media:
   type: ImageBlock
