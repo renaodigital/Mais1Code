@@ -11,7 +11,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/O que é Flow Blockchain diegofornalha.png
   altText: O que é Flow Blockchain?
   caption: ''
 media:
