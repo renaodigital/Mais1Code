@@ -65,7 +65,9 @@ media:
     oportunidades de financiamento governamental e empresarial.
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: >-
+  /images/Como financiar Seu Projeto na Flow Através de Fundos de Investimento 
+  diegofornalha.png
 ---
 **Blockchain joga de acordo com suas próprias regras.**
 
