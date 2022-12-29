@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Controle básico de acesso em Cadence diegofornalha.png
-  altText: Post thumbnail image
+  altText: Controle básico de acesso em Cadence
   caption: ''
 media:
   type: ImageBlock
