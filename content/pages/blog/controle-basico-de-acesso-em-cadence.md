@@ -7,8 +7,18 @@ title: Controle básico de acesso em Cadence
 colors: colors-d
 date: '2022-12-26'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  O controle de acesso em contratos inteligentes escritos em Cadence, uma
+  linguagem de programação para a plataforma Flow. O controle de acesso é a
+  restrição de acesso a campos, funções e tipos em um contrato para determinados
+  escopos e usuários e é importante para evitar vulnerabilidades no código. O
+  Cadence fornece duas camadas de controle de acesso: baseado em palavras-chave
+  e baseado em capacidade. As palavras-chave "pub" e "access(all)" permitem que
+  uma declaração seja acessível em todos os escopos, enquanto "in" e
+  "access(self)" restringem o acesso a um escopo específico. O controle de
+  acesso baseado em capacidade permite que um contrato conceda ou negue acesso a
+  outros contratos com base em suas capacidades específicas. É recomendado que
+  os desenvolvedores tenham um entendimento completo do controle de acesso em
+  Cadence antes de implantar seus projetos na rede principal.
 featuredImage:
   type: ImageBlock
   url: /images/Controle básico de acesso em Cadence diegofornalha.png
