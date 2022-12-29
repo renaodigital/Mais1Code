@@ -7,8 +7,18 @@ title: NFTs Porsche Sprint Challenge GT na Flow Blockchain
 colors: colors-d
 date: '2022-12-06'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  O projeto Porsche Sprint Challenge GT de Laura-Marie Geissler é uma campanha
+  de financiamento coletivo que usa NFTs (non-fungible tokens) para patrocinar a
+  temporada de corridas de GT da Porsche. Os fãs podem patrocinar diretamente a
+  temporada de Laura-Marie, participando e se tornando parte de uma comunidade
+  que lançará a primeira equipe de corrida financiada por NFTs. A Porsche
+  patrocina Laura-Marie Geissler e apoia totalmente o projeto, mas não está
+  diretamente envolvida no design, desenvolvimento e marketing desses itens
+  colecionáveis. O objetivo é criar uma nova dinâmica no automobilismo, onde o
+  financiamento coletivo encontra o fandom verificado, aproximando as pessoas da
+  ação e ampliando o envolvimento da comunidade. A campanha de lançamento inclui
+  uma série de capacetes exclusivos com diferentes características, como
+  materiais de viseira, decalques
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
