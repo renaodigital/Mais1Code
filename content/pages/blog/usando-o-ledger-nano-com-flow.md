@@ -39,7 +39,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
-  altText: Post image
+  altText: Usando o Ledger Nano com Flow
   caption: >-
     O aplicativo Flow é um software que permite aos usuários armazenar e acessar
     tokens FLOW, uma criptomoeda nativa da plataforma de blockchain Flow, no
