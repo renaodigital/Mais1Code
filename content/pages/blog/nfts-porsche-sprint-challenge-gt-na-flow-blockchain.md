@@ -24,7 +24,7 @@ featuredImage:
   url: >-
     /images/diegofornalha NFTs Porsche Sprint Challenge GT na Flow
     Blockchain.png
-  altText: Post thumbnail image
+  altText: NFTs Porsche Sprint Challenge GT na Flow Blockchain
   caption: ''
 media:
   type: ImageBlock
