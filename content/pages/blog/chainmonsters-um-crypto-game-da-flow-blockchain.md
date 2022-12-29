@@ -21,6 +21,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/hilary-ouse.json
 ---
 [Chainmonsters](http://playchainmonsters.com/) , desenvolvido pela [B-Side Games](http://bsidegames.com/) , é um novo e emocionante jogo multijogador multiplataforma on-line, onde você captura, batalha, troca e compete com monstros digitais em uma experiência massiva de mundo aberto multijogador.
 
