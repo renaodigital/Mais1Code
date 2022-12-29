@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Versão beta aberta do nó de arquivo da comunidade Flow
 colors: colors-a
-date: '0002-12-05'
+date: '2022-12-05'
 excerpt: >-
   O nó de arquivo é um tipo de nó da cadeia de blocos Flow que é responsável por
   armazenar e indexar o protocolo e o estado de execução da cadeia. Ele permite
