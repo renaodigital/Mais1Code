@@ -22,7 +22,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Opcionais em Cadence diegofornalha.png
-  altText: Post thumbnail image
+  altText: Opcionais em Cadence? Não opcionais!
   caption: ''
 media:
   type: ImageBlock
