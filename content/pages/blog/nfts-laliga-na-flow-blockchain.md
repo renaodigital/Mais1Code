@@ -23,12 +23,34 @@ metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![Image description](https://web3dev-forem-production.s3.amazonaws.com/uploads/articles/c972sd1ibyjxlw2rh0sg.jpg)
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+LaLiga Golazos, uma plataforma NFT. 
+https://laligagolazos.com/marketplace/moments
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**Você sabe o que é NFT, né? **
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+É uma sigla para "non-fungible token", ou token não fungível, em português. Basicamente, são itens virtuais exclusivos e únicos, que podem ser colecionados ou até mesmo negociados como se fossem objetos reais.
+
+Agora, a LaLiga Golazos é uma plataforma NFT baseada na liga espanhola de futebol, que tem times famosos como Barcelona, Real Madrid e Atletico Madrid. 
+
+Ela foi desenvolvida pela Dapper Labs, a mesma empresa que criou a NBA Top Shot e a NFL All Day.
+
+A LaLiga Golazos vai permitir que você colecione momentos especiais dos jogos da liga espanhola, como gols incríveis, defesas heroicas e jogadas marcantes. 
+
+Cada um desses momentos será representado por um NFT único, que poderá ser adquirido e colecionado como se fosse uma figurinha de futebol. Além disso, a plataforma também terá um sistema de torneios e recompensas, onde os colecionadores poderão competir entre si e ganhar prêmios incríveis.
+
+A LaLiga Golazos promete ser uma plataforma divertida e inovadora para os fãs de futebol e colecionadores virtuais.
+
+Os momentos capturados incluem dribles incríveis, assistências notáveis, defesas excepcionais, ações defensivas importantes e gols que emocionam milhões de fãs em todo o mundo. 
+
+Os pacotes serão classificados em quatro níveis de raridade e estarão disponíveis em um mercado construído no blockchain Flow. Os fãs poderão comprar, vender ou negociar utilizando da carteira dapper.
+
+A carteira Dapper é uma carteira criptográfica online multichain que permite aos usuários armazenem e gerenciem várias criptomoedas. 
+
+A carteira também vem com um sistema de pagamento seguro chamado Simplex, que permite aos usuários comprem Ethers ou Flow diretamente com cartões de crédito ou débito.
+
+
+
+
