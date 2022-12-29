@@ -23,7 +23,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Diego Fornalha Diversos casos de uso da flow blockchain.png
-  altText: Post thumbnail image
+  altText: Diversos casos de uso da flow blockchain
   caption: ''
 media:
   type: ImageBlock
