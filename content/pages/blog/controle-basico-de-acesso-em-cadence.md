@@ -57,7 +57,7 @@ media:
     seus projetos na rede principal.
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/Controle básico de acesso em Cadence diegofornalha.png
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
