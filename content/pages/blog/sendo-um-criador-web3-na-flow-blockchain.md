@@ -4,7 +4,7 @@ metaTitle: Sendo um Criador Web3 na Flow Blockchain
 addTitleSuffix: true
 metaTags: []
 title: Sendo um Criador Web3 na Flow Blockchain
-colors: colors-d
+colors: colors-a
 date: '2023-12-13'
 excerpt: >-
   O objetivo da Dapper Labs é usar a tecnologia descentralizada, especificamente
