@@ -44,7 +44,20 @@ media:
     roteamento e informações de metadados para melhorar a integração de
     terceiros e a exibição de informações de token.
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  O Flow Playground é uma plataforma online interativa que permite que os
+  usuários aprendam sobre o desenvolvimento de aplicativos na plataforma Flow
+  escrevendo e executando contratos e transações inteligentes em um ambiente de
+  teste. A plataforma também fornece acesso à linguagem de programação Cadence,
+  projetada para garantir que o código seja seguro e acessível. Além disso, a
+  Flow está lançando o programa Flow Alpha, que oferece acesso exclusivo ao
+  canal de Discord da plataforma, oportunidades de co-marketing e
+  desenvolvimento de negócios com parceiros, bem como suporte para projetos
+  qualificados em termos de captação de recursos e modelos de negócios. A
+  plataforma também está lançando atualizações para o padrão NFT MetadataView e
+  o contrato padrão de tokens fungíveis, que adicionam recursos de roteamento e
+  informações de metadados para melhorar a integração de terceiros e a exibição
+  de informações de token.
 socialImage: null
 author: content/data/team/hilary-ouse.json
 ---
