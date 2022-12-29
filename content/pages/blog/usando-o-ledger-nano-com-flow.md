@@ -7,8 +7,18 @@ title: Usando o Ledger Nano com Flow
 colors: colors-d
 date: '2022-12-17'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  O aplicativo Flow é um software que permite aos usuários armazenar e acessar
+  tokens FLOW, uma criptomoeda nativa da plataforma de blockchain Flow, no
+  dispositivo Ledger, uma carteira de hardware segura para armazenar chaves
+  privadas. O aplicativo também permite que os usuários assinem vários tipos de
+  transações compatíveis com o blockchain Flow, como transferência de tokens,
+  staking, delegação e mais. Para usar o aplicativo Flow, é necessário
+  instalá-lo no dispositivo Ledger e conectar o dispositivo a um computador com
+  o Ledger Live instalado. Depois de conectado, o usuário pode desbloquear o
+  dispositivo com sua senha e iniciar o aplicativo Flow. Se o usuário ainda não
+  tiver uma conta no Flow, o dispositivo pode iniciar o processo de criação de
+  uma nova conta. Depois de configurado, o usuário pode assinar transações ao
+  usar dApps compatíveis com o Flow.
 featuredImage:
   type: ImageBlock
   url: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
