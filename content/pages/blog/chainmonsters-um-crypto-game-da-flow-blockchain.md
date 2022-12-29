@@ -7,8 +7,17 @@ title: Chainmonsters Um Crypto Game da Flow Blockchain
 colors: colors-d
 date: '2022-12-18'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Chainmonsters é um jogo multijogador online onde os jogadores podem capturar,
+  batalhar, trocar e competir com monstros digitais em uma experiência de mundo
+  aberto multijogador. O jogo foi desenvolvido pela B-Side Games e usa a
+  blockchain Flow para oferecer recursos interessantes, como trajes, itens,
+  monstros e outros objetos especiais que são NFTs (ativos não fungíveis)
+  pertencentes e controlados pelos usuários. A B-Side Games está lançando uma
+  campanha no Kickstarter em 20 de outubro para oferecer NFTs raros e itens
+  exclusivos. A equipe escolheu usar a blockchain Flow porque ela é projetada
+  para ser centrada no consumidor e amigável ao desenvolvedor, permitindo
+  integração fácil com o jogo e uma conta Flow anônima criada automaticamente
+  para os jogadores.
 featuredImage:
   type: ImageBlock
   url: /images/Chainmonsters Um Crypto Game da Flow Blockchain Diego Fornalha.png
