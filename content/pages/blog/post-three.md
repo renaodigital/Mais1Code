@@ -10,20 +10,7 @@ excerpt: >-
 media:
   type: ImageBlock
   altText: Post Image
-bottomSections:
-  - type: DividerSection
-    colors: colors-d
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-4
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
+bottomSections: []
 addTitleSuffix: true
 featuredImage:
   type: ImageBlock
