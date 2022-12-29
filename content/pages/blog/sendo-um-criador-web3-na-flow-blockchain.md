@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Sendo um Criador Web3 na Flow Blockchain Diego Fornalha.png
-  altText: Post thumbnail image
+  altText: Sendo um Criador Web3 na Flow Blockchain
   caption: ''
 media:
   type: ImageBlock
