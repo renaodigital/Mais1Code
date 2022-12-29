@@ -30,7 +30,7 @@ featuredImage:
     processo de cunhagem/mintagem.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/NFTs Blockchain flow diego fornalha.png
   altText: NFTs Blockchain flow
 bottomSections: []
 metaDescription: null
