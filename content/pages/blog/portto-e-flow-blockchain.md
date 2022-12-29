@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Portto e Flow Blockchain diego fornalha.png
-  altText: Post thumbnail image
+  altText: Portto e Flow Blockchain
   caption: ''
 media:
   type: ImageBlock
