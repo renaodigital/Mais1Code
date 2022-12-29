@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/NBA Top Shot na Flow Blockchain diegofornalha.png
-  altText: Post thumbnail image
+  altText: NBA Top Shot na Flow Blockchain
   caption: >-
     A Dapper Labs anunciou uma parceria com a NBA e a NBPA em 2019, com o
     objetivo de criar uma plataforma que permita aos fãs da NBA colecionar e
