@@ -80,5 +80,5 @@
         "case": "none",
         "letterSpacing": "normal"
     },
-    "fontHeadlines": "fontPrimary"
+    "fontHeadlines": "fontSecondary"
 }
