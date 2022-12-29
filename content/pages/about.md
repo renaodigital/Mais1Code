@@ -74,7 +74,6 @@ sections:
       - content/data/team/hugh-saturation.json
       - content/data/team/hilary-ouse.json
       - content/data/team/person-2vd7ihy77.json
-      - content/data/team/desmond-eagle.json
     styles:
       self:
         height: auto
