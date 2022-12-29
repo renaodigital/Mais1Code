@@ -40,7 +40,7 @@ featuredImage:
     estão usando pelos serviços de processamento de transações.
 media:
   type: ImageBlock
-  url: /images/Ampla distribuição do token flow diego fornalha.png
+  url: /images/Baixa Inflação Monetária do token flow diegofornalha.png
   caption: >-
     Blockchains como a Flow são alimentadas por comunidades descentralizadas que
     executam o hardware do computador (nós validadores) que suportam a atividade
