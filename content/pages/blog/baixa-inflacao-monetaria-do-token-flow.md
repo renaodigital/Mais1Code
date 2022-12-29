@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Baixa Inflação Monetária do token flow
 addTitleSuffix: true
 metaTags: []
 title: Baixa Inflação Monetária do token flow
