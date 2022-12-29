@@ -40,6 +40,19 @@ media:
   type: ImageBlock
   url: /images/NFTs LaLiga na Flow Blockchain diegofornalha.png
   altText: NFTs LaLiga na Flow Blockchain
+  caption: >-
+    Non-fungible tokens (NFTs) são tokens virtuais exclusivos e únicos que podem
+    ser colecionados ou negociados como objetos reais. A LaLiga Golazos é uma
+    plataforma NFT baseada na liga espanhola de futebol, que permite que os
+    usuários colecionem momentos especiais dos jogos da liga, como gols
+    incríveis, defesas heroicas e jogadas marcantes, representados por tokens
+    únicos. A plataforma também terá um sistema de torneios e recompensas onde
+    os colecionadores poderão competir e ganhar prêmios. Os pacotes de NFTs
+    estarão disponíveis em um mercado construído no blockchain Flow e poderão
+    ser adquiridos, vendidos ou negociados usando a carteira Dapper, uma
+    carteira criptográfica multichain que também possui um sistema de pagamento
+    seguro chamado Simplex, que permite a compra de Ethers ou Flow com cartões
+    de crédito ou débito.
 bottomSections: []
 metaDescription: >-
   Non-fungible tokens (NFTs) são tokens virtuais exclusivos e únicos que podem
