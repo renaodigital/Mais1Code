@@ -67,12 +67,36 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+**Blockchain joga de acordo com suas próprias regras.**
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+O blockchain é um ambiente descentralizado que se baseia nas leis da oferta e da demanda, ao invés de ser governado por decisões tomadas por um único provedor. Isso significa que o mercado é o responsável por determinar as taxas de transação, os preços dos tokens e a confiabilidade da rede, o que pode levar a incertezas inéditas ou surpresas inesperadas.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Como resultado, o desenvolvimento de aplicativos no blockchain requer novos padrões de design, e a captação de recursos em uma inicialização de blockchain e a camada de incentivo subjacente exigem novos processos de pensamento. É importante lembrar que o blockchain joga de acordo com suas próprias regras, então é preciso estar preparado para enfrentar os desafios e aproveitar as oportunidades que essa tecnologia traz.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Se uma startup recebe financiamento em forma de criptomoeda ou precisa de liquidez para iniciar seus aplicativos multilaterais, ela deve ter um plano de gerenciamento de riscos em vigor. Isso é importante porque o valor da criptomoeda pode flutuar rapidamente, e a startup precisa saber como lidar com essas mudanças. Além disso, armazenar criptomoedas é diferente de armazenar fundos fiduciários. Manter as criptomoedas em trocas ou em uma carteira quente (conectada à internet) aumenta o risco de ser hackeada. Armazenar as criptomoedas em uma carteira fria, como a Ledger, ou até mesmo em papel (desconectado da internet) traz desafios de infraestrutura que a equipe precisa resolver ou recorrer a serviços de custódia, como a Coinbase Custody. É importante gerenciar esses riscos de forma eficiente para garantir a segurança e a estabilidade do projeto.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Quais são as maneiras de financiar uma idéia para transformá-la em um produto nesse novo ambiente?**
+
+Quando se trata de financiamento de startups, há muitas opções disponíveis, como financiamento coletivo, investimentos angulares, financiamento de capital de risco, incubadoras e aceleradores. Algumas dessas opções foram especialmente adaptadas para o espaço de blockchain, como as Organizações Autônomas Descentralizadas (DAO). Independentemente do método escolhido, é importante considerar várias abordagens e entender como interagir com cada uma delas. Este guia pode fornecer algumas dicas úteis para ajudar a orientar a escolha do método de financiamento mais adequado para o projeto.
+
+### **Fundos de investimento**
+
+A indústria de blockchain tem crescido rapidamente, e isso tem sido fortemente correlacionado com aumentos nos investimentos em capital de risco e fundos de hedge. De acordo com a [Pesquisa do Fundo Crypto](https://cryptofundresearch.com/cryptocurrency-funds-overview-infographic/), existem 804 fundos de investimento em blockchain atualmente ativos, e a quantidade de ativos sob sua administração cresceu de 190 milhões de dólares em 2016 para mais de 21 bilhões de dólares em 2020. Isso significa que as oportunidades para startups receberem financiamento de um fundo de investimento são muito maiores do que eram há quatro anos.
+
+**O que procurar?**
+
+1.  **Identifique potenciais investidores.** [estágio inicial ou financiamento das rodadas A a C](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp)
+
+O portfólio de um fundo de investimento pode dar uma boa ideia se ele pode estar interessado em investir em sua startup. É importante considerar o estágio de desenvolvimento do seu projeto e procurar um fundo que tenha experiência em investir em projetos semelhantes. Além disso, é importante verificar se o fundo de investimento tem algum interesse na tecnologia blockchain e se o histórico do seu projeto se encaixa em um tema relevante para o fundo. Por exemplo, um fundo de investimento com um foco pesado nas trocas pode não estar interessado em investir em uma ferramenta de desenvolvimento de software. É importante fazer essa pesquisa antes de procurar financiamento, para ter uma ideia de quais fundos podem ser mais propensos a investir no seu projeto.
+
+2.  **Alcance.**
+
+Depois de identificar um fundo de investimento que possa estar interessado no seu projeto, é hora de entrar em contato. Se você conhece alguém que pode fornecer uma apresentação ou um ponto de contato no fundo, isso pode ser muito útil. Os fundos de investimento costumam depender fortemente de referências na avaliação de oportunidades sérias, então ter alguém que possa recomendar o seu projeto pode ser muito valioso. Se você não tiver essa conexão, pode tentar entrar em contato com o fundo de investimento diretamente e ver se eles estão interessados em aprender mais sobre o seu projeto.
+
+3.  **Suba a escada.**
+
+Os fundos de investimento geralmente têm uma estrutura corporativa complexa, o que significa que os fundadores de startups podem precisar seguir uma série de etapas para chegar a uma conversa com um parceiro. Isso pode incluir conversas com analistas, gerentes de investimentos e outros profissionais. Independentemente do nível de contato, é importante manter seu argumento no ponto e se preparar para apresentar de forma eficiente. Isso dará confiança para apresentar com sucesso quando realmente importa e pode aumentar as chances de obter financiamento do fundo de investimento.
+
+4.  **Eduque-se **[**folhas de termos**](https://www.investopedia.com/terms/t/termsheet.asp)**.**
+
+O term sheet é um documento fundamental em qualquer discussão sobre investimentos. Ele detalha os aspectos mais importantes de um acordo, incluindo o valor do investimento, a avaliação da empresa e como a propriedade da sua startup será estruturada. É um documento crucial para entender as condições de um possível investimento e tomar uma decisão informada sobre se é uma opção viável. É importante ler atentamente o term sheet e fazer perguntas sobre qualquer coisa que não esteja clara para garantir que se compreenda o acordo completo antes de assinar.
