@@ -20,7 +20,7 @@ media:
   altText: NFTs LaLiga na Flow Blockchain
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/NFTs LaLiga na Flow Blockchain diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 
