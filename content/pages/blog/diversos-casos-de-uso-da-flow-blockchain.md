@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Diversos casos de uso da flow blockchain
 addTitleSuffix: true
 metaTags: []
 title: Diversos casos de uso da flow blockchain
