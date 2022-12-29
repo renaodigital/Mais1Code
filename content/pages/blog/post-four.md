@@ -4,7 +4,7 @@ layout: PostLayout
 date: '2022-02-01'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
-excerpt: Mais sobre o token flow
+excerpt: O que é um STAKING na blockchain flow?
 media:
   type: ImageBlock
   altText: Post Image
