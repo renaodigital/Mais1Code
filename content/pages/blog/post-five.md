@@ -7,20 +7,7 @@ excerpt: 'Assim que iniciar a abertura de turmas, você será chamado(a)'
 media:
   type: ImageBlock
   altText: Post Image
-bottomSections:
-  - type: DividerSection
-    colors: colors-d
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-4
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
+bottomSections: []
 metaDescription: >-
   Sunset fishing is a beautiful time of day to relax and get in touch with
   nature
