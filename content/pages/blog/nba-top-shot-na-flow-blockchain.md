@@ -11,7 +11,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/NBA Top Shot na Flow Blockchain diegofornalha.png
   altText: Post thumbnail image
   caption: ''
 media:
