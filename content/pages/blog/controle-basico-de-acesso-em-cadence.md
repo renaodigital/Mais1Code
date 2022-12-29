@@ -57,7 +57,7 @@ media:
     seus projetos na rede principal.
 bottomSections: []
 metaDescription: >-
-  o controle de acesso em contratos inteligentes escritos em Cadence, uma
+  O controle de acesso em contratos inteligentes escritos em Cadence, uma
   linguagem de programação para a plataforma Flow. O controle de acesso é a
   restrição de acesso a campos, funções e tipos em um contrato para determinados
   escopos e usuários e é importante para evitar vulnerabilidades no código. O
