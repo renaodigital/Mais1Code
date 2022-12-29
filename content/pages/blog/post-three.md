@@ -3,10 +3,6 @@ title: migrar
 layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/desmond-eagle.json
-excerpt: >-
-  A Flow criou uma rede blockchain de operação heterogênea , com paralelismo e
-  escalabilidade que cresce com o número de nós na rede. O primeiro seria o
-  sistema atual de muitos blockchains, enquanto o segundo seria Flow.
 media:
   type: ImageBlock
   altText: Post Image
