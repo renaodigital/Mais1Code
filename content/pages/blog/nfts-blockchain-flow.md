@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/NFTs Blockchain flow diego fornalha.png
-  altText: Post thumbnail image
+  altText: NFTs Blockchain flow
   caption: ''
 media:
   type: ImageBlock
