@@ -17,33 +17,6 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Ampla distribuição do token flow diego fornalha.png
-  altText: >-
-    Blockchains como a Flow são alimentados por comunidades descentralizadas que
-    executam o hardware do computador (“nós validadores”) que suportam a
-    atividade e protegem o valor dos ativos na rede.Outros blockchains dependem
-    fortemente da criação e distribuição de novos tokens (“inflação monetária”)
-    para atrair operadores de nós validadores para suas redes.Infelizmente, como
-    em todas as economias, a inflação monetária tem um custo: o suprimento
-    recém-criado de tokens atua como um imposto sobre a posse ou uso do
-    dia-a-dia, diluindo todos os titulares de token.É por isso que a Flow tem um
-    limite para a inflação monetária. Na verdade, a inflação na Flow diminuirá à
-    medida que as taxas de rede aumentarem. Em seu estado estacionário, a Flow
-    garante um pagamento definido para os operadores de nó e apenas emite novos
-    tokens conforme necessário para compensar a diferença entre as taxas de
-    transação e o pagamento garantido. À medida que as taxas de transação se
-    aproximam desse valor de pagamento, a nova emissão se aproxima de 0%. Se as
-    taxas de transação excederem o valor do pagamento, elas serão mantidas em
-    uma conta caução e usadas para compensar a inflação futura
-    indefinidamente.Assim a economia da Flow amadurecem.Detalhes
-    técnicosProcessamento e computação de transaçõesComo uma rede
-    descentralizada, a Flow cobra dos usuários – ou dos aplicativos que eles
-    estão usando – pelos serviços por ação, semelhante à forma como o Amazon
-    Lambda cobra pelo poder de processamento hoje. Existem dois tipos de taxas
-    na rede Flow:Taxas de processamento que cobrem as taxas de uma transação a
-    ser enviada e incluída em um bloco.Taxas de cálculo que são adicionadas para
-    operações mais complexas que exigem cálculo além da atualização de
-    saldos.Especialmente nos primeiros dias da rede, as taxas de transação são
-    baixas, começando em 0,001 FLOW ou 1 mF (mili FLOW).
 bottomSections: []
 metaDescription: null
 socialImage: null
