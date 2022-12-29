@@ -17,7 +17,9 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/Como construir um Dapp para cunhagem de NFT na Flow
+    diegofornalha.png
   altText: Post image
 bottomSections: []
 metaDescription: null
