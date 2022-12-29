@@ -179,5 +179,3 @@ Certifique-se de entrar em nosso [servidor Discord](https://discord.gg/rWnB4fM)
 Inscrição no boletim informativo: <http://eepurl.com/gN8sAP>
 
 (isso também pode ser feito em [bsidegames.com](http://bsidegames.com/) e [playchainmonsters.com](http://playchainmonsters.com/) )
-
-Artigo original em inglês:
