@@ -31,6 +31,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/hilary-ouse.json
 ---
 Se você é um novato, confira [minha postagem introdutória no blog para começar!](https://www.web3dev.com.br/diegofornalha/tomando-seus-primeiros-passos-com-cadence-397b)
 
