@@ -60,12 +60,27 @@ metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+A distribuição do token nativo é fundamental para a descentralização da rede e o sucesso a longo prazo.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+O controle centralizado sobre o fornecimento de token impede o fácil acesso dos desenvolvedores, que exigem o token nativo para implantar novos contratos inteligentes e pagar taxas de transação (“gás”), além de cobrir armazenamento e depósitos de conta na rede.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Uma estratégia de distribuição segura e sustentável é fundamental: devemos colocar o token FLOW nas mãos das pessoas certas.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Juntamente com a capacidade técnica e a segurança da cripto economia, reconhecemos que uma estratégia de distribuição saudável e sustentável é essencial para tornar o blockchain Flow bem-sucedido a longo prazo.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+a FLOW será a catalisadora para diversas novas comunidades acessarem a blockchain e aplicativos descentralizados, construindo e beneficiando casos de uso reais em vez de especulações.
+
+Um bom design de experiência do usuário tornará a propriedade e o uso perfeito da FLOW.
+
+Em última análise, a FLOW reunirá todas as comunidades que constroem a rede para criar e compartilhar valor.
+
+A Flow é pioneira em vários programas de engajamento em larga escala:
+
+*   **Parceiros Cloudburst:** organizações ou indivíduos eleitos pelos detentores da FLOW para operar um ou mais nós validadores da Flow e distribuir as recompensas para desenvolvedores, designers, artistas, organizadores da comunidade e empreendedores que criam conteúdo para a rede Flow.
+
+*   **Validadores Floodplain:** desenvolvedores, parceiros de infraestrutura e outros participantes do ecossistema interessados em apoiar a Flow antecipadamente e ajudar a inicializar a massa crítica de conteúdo e recursos descentralizados necessários para uma rede sustentável.
+
+*   **Reputação Descentralizada e Protocolo de Incentivo (DRIP):** projetada para acessibilidade ajudando os aplicativos na Flow a encontrar uma base de usuários engajada, a DRIP distribui o token FLOW aos usuários finais para fins de aposta, delegação e participação ativa na economia da Flow.
+
+Graças à tecnologia robusta, uma comunidade incrível e um forte design de incentivo, a FLOW permitirá que os primeiros usuários de hoje construam os mundos abertos de amanhã.
+
