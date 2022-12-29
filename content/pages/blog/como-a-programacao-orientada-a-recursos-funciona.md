@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'Como a programação orientada a recursos funciona? '
 addTitleSuffix: true
 metaTags: []
 title: 'Como a programação orientada a recursos funciona? '
