@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/NBA Top Shot na Flow Blockchain diegofornalha.png
-  altText: Post image
+  altText: NBA Top Shot na Flow Blockchain
 bottomSections: []
 metaDescription: null
 socialImage: null
