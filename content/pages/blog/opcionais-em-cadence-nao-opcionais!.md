@@ -40,7 +40,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Opcionais em Cadence diegofornalha.png
-  altText: Post image
+  altText: Opcionais em Cadence? Não opcionais!
 bottomSections: []
 metaDescription: null
 socialImage: null
