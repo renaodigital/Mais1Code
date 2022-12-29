@@ -23,7 +23,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
   caption: >-
     A Flow é uma rede descentralizada de computadores que trabalham juntos para
     garantir a segurança e integridade dos dados de seus usuários. Os operadores
