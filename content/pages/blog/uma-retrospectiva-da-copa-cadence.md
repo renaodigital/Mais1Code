@@ -19,7 +19,7 @@ media:
   url: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
   altText: Uma retrospectiva da Copa Cadence
 bottomSections: []
-metaDescription: null
+metaDescription: Uma retrospectiva da Copa Cadence
 socialImage: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
