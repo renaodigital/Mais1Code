@@ -62,6 +62,7 @@ metaDescription: >-
   online. A comunidade Flow também é uma fonte valiosa de aprendizado e suporte
   para aqueles que desejam aprender mais sobre a tecnologia.
 socialImage: /images/Tomando seus primeiros passos com Cadence diegofornalha.png
+author: content/data/team/hilary-ouse.json
 ---
 A Flow também significa DIVERTIMENTO!
 
