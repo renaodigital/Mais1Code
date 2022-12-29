@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Chainmonsters Um Crypto Game da Flow Blockchain Diego Fornalha.png
   altText: Post image
 bottomSections: []
 metaDescription: null
