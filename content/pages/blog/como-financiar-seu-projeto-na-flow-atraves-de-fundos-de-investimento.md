@@ -21,7 +21,7 @@ media:
   url: >-
     /images/Como financiar Seu Projeto na Flow Através de Fundos de
     Investimento  diegofornalha.png
-  altText: Post image
+  altText: Como financiar Seu Projeto na Flow Através de Fundos de Investimento
 bottomSections: []
 metaDescription: null
 socialImage: null
