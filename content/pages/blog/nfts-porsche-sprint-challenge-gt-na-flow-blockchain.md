@@ -62,6 +62,10 @@ metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
 ---
+[![](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4d539ce35f793e2cb40\_62396217155a4b545e98da8a_NFTco_PorscheLMG_Banner.png)](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4d539ce35f793e2cb40\_62396217155a4b545e98da8a_NFTco_PorscheLMG_Banner.png)
+
+*Este é um postagem de um convidado da *[*equipe Unblocked*](https://unblocked.exchange/)* .*
+
 Uma das coisas mais poderosas que as comunidades da Web3 podem fazer é reunir-se em torno de uma causa, e essa é apenas uma das razões pelas quais a [Unblocked](https://unblocked.exchange/) está animada em apoiar a próxima temporada do Porsche Sprint Challenge GT [de Laura-Marie Geissler .](http://www.lmg-racing.de/) 
 
 Os fãs poderão patrocinar diretamente a temporada de Laura-Marie, participando e se tornando parte de uma comunidade que lançará a primeira equipe de corrida financiada pela NFT.
