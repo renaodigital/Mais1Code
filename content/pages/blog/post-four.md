@@ -21,7 +21,6 @@ metaDescription: >-
   rede.
 metaTags: []
 socialImage: /images/diegofornalha staking flow blockchain.png
-metaTitle: O que é um STAKING na blockchain flow?
 title: Migração do conteúdo
 ---
 Agora ngm segura nós!
