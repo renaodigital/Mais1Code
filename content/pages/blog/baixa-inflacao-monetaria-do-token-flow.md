@@ -4,7 +4,7 @@ metaTitle: Baixa Inflação Monetária do token flow
 addTitleSuffix: true
 metaTags: []
 title: Baixa Inflação Monetária do token flow
-colors: colors-d
+colors: colors-a
 date: '2022-12-03'
 excerpt: >-
   Blockchains como a Flow são alimentadas por comunidades descentralizadas que
