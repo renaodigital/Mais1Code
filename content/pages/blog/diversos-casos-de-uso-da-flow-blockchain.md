@@ -41,7 +41,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Diego Fornalha Diversos casos de uso da flow blockchain.png
-  altText: Post image
+  altText: Diversos casos de uso da flow blockchain
 bottomSections: []
 metaDescription: null
 socialImage: null
