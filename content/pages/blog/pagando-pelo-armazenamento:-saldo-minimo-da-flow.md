@@ -4,7 +4,7 @@ metaTitle: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
 addTitleSuffix: true
 metaTags: []
 title: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
-colors: colors-d
+colors: colors-a
 date: '2022-12-04'
 excerpt: >-
   A Flow é uma rede descentralizada de computadores que trabalham juntos para
