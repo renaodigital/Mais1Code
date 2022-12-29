@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Chainmonsters Um Crypto Game da Flow Blockchain
 addTitleSuffix: true
 metaTags: []
 title: Chainmonsters Um Crypto Game da Flow Blockchain
