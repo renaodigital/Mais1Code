@@ -21,7 +21,9 @@ excerpt: >-
   materiais de viseira, decalques
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/diegofornalha NFTs Porsche Sprint Challenge GT na Flow
+    Blockchain.png
   altText: Post thumbnail image
   caption: ''
 media:
