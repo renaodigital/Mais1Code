@@ -45,6 +45,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/hilary-ouse.json
 ---
 Uma das coisas mais poderosas que as comunidades da Web3 podem fazer é reunir-se em torno de uma causa, e essa é apenas uma das razões pelas quais a [Unblocked](https://unblocked.exchange/) está animada em apoiar a próxima temporada do Porsche Sprint Challenge GT [de Laura-Marie Geissler .](http://www.lmg-racing.de/) 
 
