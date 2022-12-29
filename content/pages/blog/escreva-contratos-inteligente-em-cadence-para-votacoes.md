@@ -23,12 +23,195 @@ metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Hoje nós vamos ver como é fácil programar seu primeiro smart contract em Cadence de votação, ele sem dúvidas é o verdadeiro mestre das eleições!
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Ele permite que os participantes votem em uma das propostas disponíveis e armazena as contagens de votos para cada uma das propostas.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Ele possui três recursos principais:
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+``,
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+`` e
+
+``.
+
+Com esses recursos, o smart contract em Cadence é capaz de realizar eleições de forma eficiente e segura.
+
+O recurso `` é o contrato principal e define as variáveis `` e ``, bem como as funções `` e ``.
+
+A variável `` é uma lista de strings que armazena as propostas disponíveis para votação, enquanto a variável `` é um dicionário que armazena a contagem de votos para cada uma das propostas.
+
+A função `` é usada para processar um voto quando um participante decide finalizá-lo, enquanto a função `` é chamada quando o contrato é criado e inicializa as variáveis `` e `` com valores vazios e salva uma instância do recurso `` na storage do contrato.
+
+O recurso `` é usado para permitir que os participantes votem em uma das propostas e armazenar suas escolhas em uma variável ``.
+
+Quando uma nova instância do recurso `` é criada, a função `` é chamada para inicializar a variável `` com um dicionário vazio e preencher o dicionário com as propostas disponíveis. O participante pode chamar a função `` para votar em uma das propostas, passando o índice da proposta como argumento.
+
+O recurso `` permite que o administrador inicialize as propostas e crie novas instâncias do recurso ``. A função `` é usada para atribuir a lista de propostas fornecida à variável `` do contrato principal e inicializar a variável `` com um dicionário vazio, com chaves correspondentes a cada uma das propostas.
+
+A função `` é usada para criar uma nova instância do recurso `` e retorná-la.
+
+Espero que isso tenha ajudado a esclarecer o que o seu smart contract está fazendo de forma mais detalhada e descontraída. Se você tiver mais perguntas ou precisar de mais assistência, não hesite em perguntar.
+
+```
+pub contract MaioriaGanha {
+    pub var propostas: [String]
+    pub let votos: {Int: Int}
+
+    pub resource Voto {
+        pub let propostas: [String]
+        pub var escolha: {Int: Bool}
+
+        init() {
+            self.propostas = MaioriaGanha.propostas
+            self.escolha = {}
+            var i = 0
+            while i < self.propostas.length {
+                self.escolha[i] = false
+                i = i + 1
+            }
+        }
+        pub fun vote(propostas: Int) {
+            pre {
+                propostas >= 0
+                propostas < self.propostas.length
+            }
+            self.escolha[propostas] = true
+        }
+    }
+
+    pub resource Administrar {
+        pub fun inicializePropostas(_ propostas: [String]) {
+            pre {
+                MaioriaGanha.propostas.length == 0
+                propostas.length > 0
+            }
+            MaioriaGanha.propostas = propostas
+
+            var i = 0
+            while i < propostas.length {
+                MaioriaGanha.votos[i] = 0
+                i = i + 1
+            }
+        }
+
+        pub fun emitirVoto(): @Voto {
+            return <-create Voto()
+        }
+    }
+
+    pub fun processar(voto: @Voto) {
+        var index = 0
+        while index < self.propostas.length {
+            if voto.escolha[index]! {
+                self.votos[index] = self.votos[index]! + 1
+            }
+            index = index + 1;
+        }
+        destroy voto
+    }
+    init() {
+        self.propostas = []
+        self.votos = {}
+
+        self.account.save<@Administrar>(<-create Administrar(), to: /storage/CalcularVotos)
+    }
+}
+```
+
+Parece que o seu código em Cadence é uma transação que permite ao administrador inicializar uma lista de propostas para eventos. Quando a transação é executada, ela solicita ao administrador que forneça suas credenciais de autenticação e, em seguida, usa essas credenciais para obter uma referência para o recurso `` do contrato ``.
+
+Em seguida, a função `` é chamada no recurso ``, passando uma lista de três cidades como argumento: Rio de Janeiro, São Paulo e Floripa.
+
+Essa função atribui a lista de propostas fornecida à variável `` do contrato principal e inicializa a variável `` com um dicionário vazio, com chaves correspondentes a cada uma das propostas.
+
+Por fim, a transação exibe uma mensagem de log informando que as sugestões de locais para eventos foram publicadas.
+
+```
+import MaioriaGanha from 0x01
+
+transaction {
+    prepare(admin: AuthAccount) {
+
+        let adminRef = admin.borrow<&MaioriaGanha.Administrar>(from: /storage/CalcularVotos)!
+
+        adminRef.inicializePropostas(
+            ["Rio de Janeiro", "Sao Paulo","Floripa" ]
+        )
+
+        log("Sugestoes de Locais para Eventos Publicada!")
+    }
+}
+```
+
+Agora veremos um contrato de uma transação que permite a um eleitor emitir um voto em uma das propostas disponíveis em um contrato ``
+. Quando a transação é executada, ela solicita ao administrador e ao eleitor que forneçam suas credenciais de autenticação.
+
+Em seguida, a transação obtém uma referência para o recurso `` do contrato `` e chama a função `` nesse recurso. A função `` cria uma nova instância do recurso `` e retorna uma referência para ela.
+
+Em seguida, a transação salva a instância do recurso `` na storage do eleitor e exibe uma mensagem de log informando que o acesso foi concedido.
+
+```
+import MaioriaGanha from 0x01
+
+transaction {
+    prepare(admin: AuthAccount, eleitor: AuthAccount) {
+
+        let adminRef = admin.borrow<&MaioriaGanha.Administrar>(from: /storage/CalcularVotos)!
+
+        let voto <- adminRef.emitirVoto()
+
+        eleitor.save<@MaioriaGanha.Voto>(<-voto, to: /storage/Voto)
+
+        log("Acesso Concedido")
+    }
+}
+```
+
+Agora uma transação que permite a um eleitor emitir um voto em uma das propostas disponíveis em um contrato ``. Quando a transação é executada, ela solicita ao eleitor que forneça suas credenciais de autenticação e, em seguida, tenta carregar uma instância do recurso `` da storage do eleitor.
+
+Se uma instância do recurso `` for encontrada na storage do eleitor, a transação chama a função `` nessa instância, passando o valor 0 como argumento. Isso marca a primeira proposta da lista como a escolha do eleitor.
+
+Em seguida, a transação chama a função `` do contrato ``, passando a instância do recurso `` como argumento. Isso adiciona o voto do eleitor à contagem de votos para a primeira proposta.
+
+Por fim, a transação exibe uma mensagem de log informando que o voto foi computado.
+
+```
+import MaioriaGanha from 0x01
+
+transaction {
+    prepare(eleitor: AuthAccount) {
+
+        let voto <- eleitor.load<@MaioriaGanha.Voto>(from: /storage/Voto)!
+
+        voto.vote(propostas: 0)
+
+        MaioriaGanha.processar(voto: <-voto)
+
+        log("Voto computado")
+    }
+}
+```
+
+Por fim, no script template.
+
+Quando a função é chamada, ela exibe os valores da primeira, segunda e terceira propostas na lista de propostas, seguidos dos respectivos valores de votos.
+
+A função usa os índices 0, 1 e 2 para acessar os elementos da lista de propostas e do dicionário de votos, respectivamente. Isso significa que ela exibirá a primeira proposta da lista, seguida do número de votos para essa proposta, depois a segunda proposta da lista e o número de votos para ela, e assim por diante.
+
+```
+import MaioriaGanha from 0x01
+
+pub fun main() {
+    log(MaioriaGanha.propostas[0])
+    log(MaioriaGanha.votos[0])
+
+    log(MaioriaGanha.propostas[1])
+    log(MaioriaGanha.votos[1])
+
+    log(MaioriaGanha.propostas[2])
+    log(MaioriaGanha.votos[2])
+}
+```
+
+[Try out this Playground project](https://play.flow.com/0d2820a3-6ac6-4350-bf7e-ea872214eebb?type=account\&id=4b7045e4-e927-4b90-838f-b332bdc882aa\&storage=none)
