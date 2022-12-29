@@ -7,8 +7,18 @@ title: Sendo um Criador Web3 na Flow Blockchain
 colors: colors-d
 date: '2023-12-13'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  O objetivo da Dapper Labs é usar a tecnologia descentralizada, especificamente
+  non-fungible tokens (NFTs), para dar poder aos criadores e permitir que eles
+  monetizem e promovam o próprio trabalho de maneira mais eficiente. A empresa
+  acredita que as NFTs ainda têm um grande potencial para redefinir a
+  criatividade, as comunidades de fãs e as experiências dos consumidores na
+  blockchain. A Dapper Labs tem trabalhado em produtos como NBA Top Shot,
+  CryptoKitties, NFL All Day, Dapper Wallet e outros para mostrar como as NFTs
+  podem ser usadas para criar novas experiências, conectar fãs e criar conexões
+  mais profundas no mundo digital. A empresa acredita que as NFTs são poderosas
+  para permitir a participação e o envolvimento das comunidades, bem como para
+  permitir que os fãs apoiem criadores e comunidades e expressem a própria
+  individualidade.
 featuredImage:
   type: ImageBlock
   url: /images/Sendo um Criador Web3 na Flow Blockchain Diego Fornalha.png
