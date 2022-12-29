@@ -2,10 +2,7 @@
 layout: PostLayout
 metaTitle: Uma retrospectiva da Copa Cadence
 addTitleSuffix: true
-metaTags:
-  - type: MetaTag
-    property: 'og:title'
-    content: ''
+metaTags: []
 title: Uma retrospectiva da Copa Cadence
 colors: colors-d
 date: '2022-12-24'
