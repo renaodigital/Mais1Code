@@ -11,7 +11,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Programação orientada a recursos Diego Fornalha.png
   altText: Programação orientada a recursos
   caption: ''
 media:
