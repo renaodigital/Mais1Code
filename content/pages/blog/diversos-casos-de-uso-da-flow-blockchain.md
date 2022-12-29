@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: Diversos casos de uso da flow blockchain
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: Diversos casos de uso da flow blockchain
 colors: colors-d
 date: '2022-12-05'
