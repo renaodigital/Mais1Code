@@ -20,7 +20,7 @@ media:
   altText: Uma retrospectiva da Copa Cadence
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Isenção de responsabilidade: esses projetos foram escritos usando versões muito anteriores do Cadence do que estão disponíveis agora, portanto não funcionarão com a versão mais recente do Cadence em [o playground.](https://plafly.onflow.org/local?type=account\&id=LOCAL-account-0) Mesmo assim, eles são ótimos para estudar para ver diferentes estilos de codificação. Você pode até se desafiar escolhendo um dos projetos e atualizando-o para que ele funcione com a versão mais recente do Cadence!
