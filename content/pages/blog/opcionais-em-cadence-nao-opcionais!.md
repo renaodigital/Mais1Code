@@ -56,7 +56,7 @@ media:
     aquelas que não têm, o que pode ajudar a evitar erros no código e a torná-lo
     mais legível.
 bottomSections: []
-metaDescription: null
+metaDescription: Opcionais em Cadence? Não opcionais!
 socialImage: /images/Opcionais em Cadence diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
