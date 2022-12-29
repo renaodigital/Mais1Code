@@ -26,6 +26,17 @@ media:
   type: ImageBlock
   url: /images/FUSD o stablecoin da flow Blockchain diegofornalha.png
   altText: FUSD o stablecoin da flow Blockchain
+  caption: >-
+    O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
+    lastreado pelo dólar americano em 1:1, o que significa que cada FUSD é
+    lastreado por um dólar real, o que o torna muito mais estável do que outras
+    criptomoedas. Ele é emitido pela Confiança do Prime, um balcão único
+    regulamentado para infraestrutura financeira para inovadores de ativos
+    digitais e fintech. O FUSD é uma opção segura e confiável para aqueles que
+    desejam usar criptomoedas, mas sem o risco de grandes variações no valor.
+    Instituições financeiras e provedores de carteira podem oferecer acesso
+    fiduciário globalmente ao amplo ecossistema Flow, o que é ótimo para quem
+    quer usar criptomoedas, mas não sabe por onde começar.
 bottomSections: []
 metaDescription: >-
   O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
