@@ -41,7 +41,7 @@ featuredImage:
     descentralização da rede.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Diego Fornalha Pagando pelo armazenamento saldo mínimo da FLOW.png
   altText: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
   caption: >-
     A Flow é uma rede descentralizada de computadores que trabalham juntos para
