@@ -86,7 +86,6 @@ sections:
         showIcon: true
         icon: arrowRight
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/o-que-e-flow-blockchain.md
     styles:
       self:
