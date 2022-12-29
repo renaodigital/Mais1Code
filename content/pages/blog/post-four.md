@@ -75,6 +75,7 @@ metaDescription: >-
   participação utilizado pelo Flow para manter a descentralização e segurança da
   rede.
 metaTags: []
+socialImage: /images/diegofornalha staking flow blockchain.png
 ---
 Flow é uma rede global de computadores que trabalham juntos para manter a segurança e a integridade dos dados de seus usuários.
 
