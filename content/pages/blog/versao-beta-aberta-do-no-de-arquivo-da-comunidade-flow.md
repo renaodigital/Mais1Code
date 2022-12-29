@@ -75,7 +75,9 @@ metaDescription: >-
   diferente de outros tipos de nós, como o nó de acesso e o nó observador, que
   são responsáveis por fornecer acesso ao estado atual da cadeia e aos dados do
   protocolo, respectivamente.
-socialImage: null
+socialImage: >-
+  /images/Versão beta aberta do nó de arquivo da comunidade Flow
+  Diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Temos o prazer de anunciar o Open Beta do nó de arquivo da comunidade Flow. O nó de arquivo fornece uma maneira escalável e eficiente de acessar o histórico do estado de execução do protocolo da flow\*\* para o spork atual. Ele pode ser usado para consultar detalhes da conta e executar scripts em qualquer bloco desde o início do spork atual até o último bloco selado usando a API de acesso gRPC.
