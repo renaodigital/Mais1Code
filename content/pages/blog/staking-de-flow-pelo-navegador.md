@@ -13,7 +13,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Staking de Flow pelo Navegador Diego Fornalha.png
   altText: Post image
 bottomSections: []
 metaDescription: null
