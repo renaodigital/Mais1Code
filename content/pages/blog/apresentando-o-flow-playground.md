@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Apresentando o Flow Playground diego fornalha.png
-  altText: Post image
+  altText: Apresentando o Flow Playground
 bottomSections: []
 metaDescription: null
 socialImage: null
