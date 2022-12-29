@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/FUSD o stablecoin da flow Blockchain diegofornalha.png
-  altText: Post thumbnail image
+  altText: FUSD o stablecoin da flow Blockchain
   caption: ''
 media:
   type: ImageBlock
