@@ -7,8 +7,18 @@ title: Ampla distribuição do token flow
 colors: colors-d
 date: '2022-12-02'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A distribuição do token nativo da Flow é importante para a descentralização da
+  rede e o seu sucesso a longo prazo. A distribuição segura e sustentável do
+  token é fundamental para permitir o fácil acesso dos desenvolvedores, que
+  precisam do token para implantar novos contratos inteligentes e pagar taxas de
+  transação, além de cobrir armazenamento e depósitos de conta na rede. A Flow
+  tem diversos programas de engajamento em larga escala, como os Parceiros
+  Cloudburst, os Validadores Floodplain e o Protocolo de Incentivo de Reputação
+  Descentralizada (DRIP), que visam distribuir o token de maneira a promover o
+  engajamento da comunidade e o uso da rede. O objetivo é que o token FLOW ajude
+  a catalisar o acesso de novas comunidades à blockchain e aos aplicativos
+  descentralizados, criando e beneficiando casos de uso reais. A FLOW reunirá
+  todas as comunidades que constroem a rede para criar e compartilhar valor.
 featuredImage:
   type: ImageBlock
   url: /images/Ampla distribuição do token flow diego fornalha.png
