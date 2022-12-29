@@ -22,12 +22,20 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+[![](https://static.wixstatic.com/media/704318ee9be94acabf28919a734951b8.jpg/v1/fill/w\_740%2Ch\_494%2Cal_c%2Cq\_85%2Cusm\_0.66\_1.00\_0.01%2Cenc_auto/704318ee9be94acabf28919a734951b8.jpg)](https://static.wixstatic.com/media/704318ee9be94acabf28919a734951b8.jpg/v1/fill/w\_740%2Ch\_494%2Cal_c%2Cq\_85%2Cusm\_0.66\_1.00\_0.01%2Cenc_auto/704318ee9be94acabf28919a734951b8.jpg)
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+**Se você estiver interessado em aprender sobre a blockchain Flow, aqui estão algumas etapas/dicas para você seguir:**
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+**1.** Comece familiarizando-se com o básico da tecnologia blockchain e como ela funciona. Isso fornecerá uma base para a compreensão dos conceitos e princípios por trás da Flow e de outras plataformas blockchain.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**2.** Aprenda sobre os recursos e capacidades do blockchain Flow. Você pode fazer isso visitando o site Flow e lendo a documentação e outros recursos disponíveis lá. Isso fornecerá uma visão geral da Flow e seus principais recursos, como suporte a contratos inteligentes e tokens não fungíveis ( NFTs ).
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**3.** Explore o ambiente e as ferramentas de desenvolvimento na Flow blockchain. A Flow possui um conjunto abrangente de ferramentas e bibliotecas para desenvolver e implantar aplicativos descentralizados. Familiarizar-se com essas ferramentas ajudará você a entender como criar aplicativos no blockchain Flow.
+
+**4.** Pratique escrever contratos inteligentes e NFTs na linguagem de programação Cadence. Cadence é a linguagem de programação usada no blockchain Flow, e aprender a escrever código no Cadence é essencial para criar aplicativos na Flow. Você pode encontrar tutoriais e exemplos on-line para ajudá-lo a começar.
+
+**5.** Participe da comunidade Flow e interaja com outros desenvolvedores. A Flow possui uma comunidade ativa e engajada de desenvolvedores e usuários que estão sempre felizes em ajudar e responder perguntas. Juntar-se a esta comunidade e participar de discussões e fóruns pode ser uma ótima maneira de aprender mais sobre a Flow e compartilhar suas próprias experiências.
+
+Artigo original em inglês:
+<https://www.reblock.world/post/101-flow-blockchain-nfts>
+
