@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: NFTs LaLiga na Flow Blockchain
 addTitleSuffix: true
 metaTags: []
 title: NFTs LaLiga na Flow Blockchain
