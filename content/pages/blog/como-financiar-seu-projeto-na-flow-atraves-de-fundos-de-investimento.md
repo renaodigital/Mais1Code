@@ -11,7 +11,9 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/Como financiar Seu Projeto na Flow Através de Fundos de
+    Investimento  diegofornalha.png
   altText: Post thumbnail image
   caption: ''
 media:
