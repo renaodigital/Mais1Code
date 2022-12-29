@@ -4,7 +4,7 @@ metaTitle: NFTs Blockchain flow
 addTitleSuffix: true
 metaTags: []
 title: NFTs Blockchain flow
-colors: colors-d
+colors: colors-a
 date: '2022-12-09'
 excerpt: >-
   Os tokens não fungíveis (NFTs) são ativos digitais exclusivos que estão
