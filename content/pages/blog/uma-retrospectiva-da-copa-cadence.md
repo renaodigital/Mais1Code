@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
-  altText: Post thumbnail image
+  altText: Uma retrospectiva da Copa Cadence
   caption: ''
 media:
   type: ImageBlock
