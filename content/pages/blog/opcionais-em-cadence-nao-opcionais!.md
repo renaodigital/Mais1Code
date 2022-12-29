@@ -57,7 +57,7 @@ media:
     mais legível.
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/Opcionais em Cadence diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 # **O que são opcionais?**
