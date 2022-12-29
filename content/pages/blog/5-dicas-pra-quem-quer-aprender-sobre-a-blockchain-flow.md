@@ -34,6 +34,14 @@ media:
     /images/5 Dicas pra quem quer aprender sobre a blockchain Flow
     diegofornalha.png
   altText: 5 Dicas pra quem quer aprender sobre a blockchain Flow
+  caption: >-
+    O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
+    tokens não fungíveis (NFTs). Para aprender sobre o Flow, é importante
+    familiarizar-se com os conceitos básicos de blockchain e como ela funciona,
+    aprender sobre os recursos e capacidades da plataforma, explorar o ambiente
+    de desenvolvimento e as ferramentas disponíveis, praticar a escrita de
+    código na linguagem de programação Cadence e participar da comunidade Flow e
+    interagir com outros desenvolvedores.
 bottomSections: []
 metaDescription: null
 socialImage: null
