@@ -55,7 +55,7 @@ media:
     transações ao usar dApps compatíveis com o Flow.
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
