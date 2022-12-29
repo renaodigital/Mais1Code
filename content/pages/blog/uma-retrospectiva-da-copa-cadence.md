@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
   altText: Uma retrospectiva da Copa Cadence
 bottomSections: []
 metaDescription: null
