@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/NFTs LaLiga na Flow Blockchain diegofornalha.png
   altText: NFTs LaLiga na Flow Blockchain
 bottomSections: []
 metaDescription: null
