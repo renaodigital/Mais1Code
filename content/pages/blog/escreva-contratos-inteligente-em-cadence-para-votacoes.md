@@ -78,13 +78,11 @@ Ele permite que os participantes votem em uma das propostas disponíveis e armaz
 
 Ele possui três recursos principais:
 
-``,
+MaioriaGanha,
 
-`` e
+Voto e
 
-``.
-
-
+Administrar.
 
 Com esses recursos, o smart contract em Cadence é capaz de realizar eleições de forma eficiente e segura.
 
