@@ -40,7 +40,7 @@ featuredImage:
     descentralização e segurança da rede.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/diegofornalha staking flow blockchain.png
   altText: Post image
 bottomSections: []
 metaDescription: null
