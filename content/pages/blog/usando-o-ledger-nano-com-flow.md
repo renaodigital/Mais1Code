@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
-  altText: Post thumbnail image
+  altText: Usando o Ledger Nano com Flow
   caption: ''
 media:
   type: ImageBlock
