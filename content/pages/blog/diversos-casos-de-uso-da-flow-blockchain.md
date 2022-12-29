@@ -61,12 +61,42 @@ metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+FLOW é a moeda nativa para aplicativos, jogos e contratos inteligentes construídos sobre o blockchain Flow e, portanto, é a moeda garantida para estar disponível para desenvolvedores e usuários realizarem transações na rede. Os desenvolvedores podem facilmente criar a FLOW diretamente em seus aplicativos para pagamentos ponta a ponta, também pode ser usado para cobrança por serviços, e até permitir que os consumidores ganhem recompensas pelo valor que criam.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+A FLOW também pode ser mantida, transferida ou transacionada por usuários de ponta a ponta. Os detentores de token podem ganhar recompensas apostando seu FLOW como um depósito de segurança e trabalhando para proteger a rede por meio de nós validadores em execução ou delegando sua participação a operadores profissionais para executar nós validadores em seu nome.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Os nós validadores recebem recompensas de apostas e taxas de transação em troca de fornecer os serviços de segurança, computação e armazenamento de que a rede precisa. ‍
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Pequenas quantidades de token FLOW também são necessárias para todas as atividades na rede, desde novas contas de usuário até armazenamento de ativos e contratos inteligentes.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+À medida que a rede amadurece, os detentores do token FLOW poderão usar seu FLOW de várias maneiras:
+
+*   Pagando por serviços de computação e validação (ou seja, taxas de transação)
+
+*   Pode ser usado como Meio de troca em geral
+
+*   Depósito para armazenamento de dados
+
+*   Garantia para tokens secundários
+
+*   Participação na governança
+
+A experiência de pagamento perfeita é para todas as partes: os compradores pagam em qualquer moeda que queiram.
+
+Os vendedores precificam e recebem na moeda que quiserem.
+
+Os aplicativos na Flow podem explorar essa realidade.
+
+A Flow tem alto rendimento, taxas baixas e garantias ACID completas, permitindo que os desenvolvedores implementem trocas em corretoras descentralizadas (DEXs) que atuam como uma câmara de compensação entre tokens.
+
+A Flow tem a capacidade de usar  para derrotar ataques avançados a esses DEXs.
+
+A onipresença do token FLOW na rede o torna o “ativo ponte” óbvio para trocas de moeda entre pares de tokens pouco negociados.
+
+À medida que o número de tokens secundários no Flow aumenta, o número de pares de negociação possíveis aumenta exponencialmente, o que significa que algumas trocas exigirão um ativo intermediário como o FLOW.
+
+É importante ressaltar que o FLOW é necessário para a criação e uso de todos os outros tokens na rede, para pagar pelo armazenamento e/ou servir como garantia.
+
+Esses detalhes são descritos na seção de detalhes técnicos no site flow.com e serão totalmente especificados em futuros whitepapers.
+
+O impacto econômico é que, à medida que mais valor é criado no blockchain Flow, mais demanda é gerada para o token FLOW.
