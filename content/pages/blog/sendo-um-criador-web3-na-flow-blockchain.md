@@ -38,7 +38,7 @@ featuredImage:
     criadores e comunidades e expressem a própria individualidade.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Sendo um Criador Web3 na Flow Blockchain Diego Fornalha.png
   altText: Post image
 bottomSections: []
 metaDescription: null
