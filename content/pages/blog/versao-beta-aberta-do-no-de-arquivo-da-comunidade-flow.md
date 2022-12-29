@@ -42,7 +42,9 @@ featuredImage:
     cadeia e aos dados do protocolo, respectivamente.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/Versão beta aberta do nó de arquivo da comunidade Flow
+    Diegofornalha.png
   altText: Post image
 bottomSections: []
 metaDescription: >-
