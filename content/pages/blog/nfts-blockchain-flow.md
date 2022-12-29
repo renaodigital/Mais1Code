@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: NFTs Blockchain flow
 addTitleSuffix: true
 metaTags: []
 title: NFTs Blockchain flow
