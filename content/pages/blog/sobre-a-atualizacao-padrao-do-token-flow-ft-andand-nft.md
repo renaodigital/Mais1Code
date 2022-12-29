@@ -46,6 +46,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/hilary-ouse.json
 ---
 Faz 11 meses desde que o último padrão NFT MetadataView foi lançado. Tokens fungíveis da flow inerentes ao [Padrão MetadataView](https://github.com/onflow/flow-ft/blob/master/contracts/FungibleTokenMetadataViews.cdc), embora ainda esteja em fase de teste, podemos esperar a adoção formal do padrão. Esta atualização não apenas nos traz a `MetadataView` contrato padrão de tokens fungíveis.
 O FungibleTokenSwitchboard pode implementar uma coleção geral de recursos do Receiver para resolver o NFTMetadataView anterior [Realeza](https://github.com/onflow/flow-nft/blob/master/contracts/MetadataViews.cdc#L295) problema de configuração.
