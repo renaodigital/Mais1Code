@@ -2,7 +2,6 @@
 title: migrar
 layout: PostLayout
 date: '2021-06-28'
-author: content/data/team/dianne-ameter.json
 excerpt: >-
   Surgiu no dia 15 de agosto de 2019 a Flow é uma blockchain que oferece suporte
   para criação , principalmente games em blockchain e NFTs. Seu token nativo é o
