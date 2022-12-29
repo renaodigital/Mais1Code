@@ -4,7 +4,7 @@ metaTitle: null
 addTitleSuffix: true
 metaTags: []
 title: Programação orientada a recursos
-colors: colors-d
+colors: colors-a
 date: '2022-12-10'
 excerpt: >-
   O Cadence é uma linguagem de programação orientada a recursos de alto nível
