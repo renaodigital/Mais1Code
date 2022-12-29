@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Sobre a atualização padrão do token Flow FT & NFT diegofornalha.png
-  altText: Post thumbnail image
+  altText: Sobre a atualização padrão do token Flow FT & NFT
   caption: ''
 media:
   type: ImageBlock
