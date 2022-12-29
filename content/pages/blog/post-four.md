@@ -4,7 +4,7 @@ date: '2022-11-01'
 colors: colors-a
 author: content/data/team/hilary-ouse.json
 bottomSections: []
-addTitleSuffix: true
+addTitleSuffix: false
 metaDescription: >-
   O staking é um processo utilizado em redes descentralizadas para incentivar a
   participação dos usuários na manutenção da segurança e integridade da rede.
