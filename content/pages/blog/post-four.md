@@ -6,6 +6,6 @@ author: content/data/team/hilary-ouse.json
 bottomSections: []
 addTitleSuffix: false
 metaTags: []
-title: Migração do conteúdo
+title: migrar
 ---
 Agora ngm segura nós!
