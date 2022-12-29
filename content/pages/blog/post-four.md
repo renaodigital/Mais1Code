@@ -9,12 +9,6 @@ media:
   url: /images/diegofornalha staking flow blockchain.png
 bottomSections: []
 addTitleSuffix: true
-featuredImage:
-  type: ImageBlock
-  url: /images/diegofornalha staking flow blockchain.png
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 metaDescription: >-
   O staking é um processo utilizado em redes descentralizadas para incentivar a
   participação dos usuários na manutenção da segurança e integridade da rede.
