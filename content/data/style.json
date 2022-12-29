@@ -79,6 +79,5 @@
         "weight": "normal",
         "case": "none",
         "letterSpacing": "normal"
-    },
-    "fontHeadlines": "fontSecondary"
+    }
 }
