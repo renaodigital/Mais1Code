@@ -26,6 +26,18 @@ media:
   type: ImageBlock
   url: /images/Tomando seus primeiros passos com Cadence diegofornalha.png
   altText: Tomando seus primeiros passos com Cadence
+  caption: >-
+    O Flow é uma blockchain projetada para ser rápida, descentralizada e
+    amigável ao desenvolvedor. É projetada para ser usada em aplicativos, jogos
+    e ativos digitais. A arquitetura exclusiva do Flow permite que ele escalável
+    sem fragmentação, mantendo a descentralização e a segurança esperadas de uma
+    blockchain. A linguagem de programação da Flow é a Cadence, que é orientada
+    a recursos e foi desenvolvida especificamente para ativos digitais. Para
+    aprender mais sobre o Flow e a Cadence, é recomendável ler o Primário de
+    Flow e o Introdução à Cadence, bem como outros materiais de aprendizado
+    disponíveis online. A comunidade Flow também é uma fonte valiosa de
+    aprendizado e suporte para aqueles que desejam aprender mais sobre a
+    tecnologia.
 bottomSections: []
 metaDescription: null
 socialImage: null
