@@ -7,8 +7,18 @@ title: Apresentando o Flow Playground
 colors: colors-d
 date: '2022-12-11'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  O Flow é uma plataforma de blockchain de alto desempenho projetada para
+  suportar o desenvolvimento de aplicativos descentralizados, incluindo tokens
+  não fungíveis (NFTs). A plataforma possui uma linguagem de programação chamada
+  Cadence, que é usada para escrever contratos inteligentes e NFTs. A Flow
+  também oferece a Playground, uma interface da web interativa que permite que
+  as pessoas aprendam sobre o desenvolvimento de aplicativos no Flow escrevendo
+  e executando contratos e transações inteligentes em um ambiente de teste. A
+  Flow está procurando por criadores, empresas e embaixadores para trabalhar ao
+  lado de marcas como o UFC e Warner Music para promover o uso da blockchain
+  pelo público em geral. O Flow Alpha é um programa de parceiros que oferece
+  acesso exclusivo a um canal de Discord, oportunidades de co-marketing,
+  recursos e consultoria para projetos qualificados.
 featuredImage:
   type: ImageBlock
   url: /images/Apresentando o Flow Playground diego fornalha.png
