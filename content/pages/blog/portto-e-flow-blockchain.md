@@ -7,8 +7,18 @@ title: Portto e Flow Blockchain
 colors: colors-d
 date: '2022-12-16'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A Porto, uma empresa de carteiras de criptomoeda, anunciou uma parceria com a
+  Flow, uma plataforma blockchain, para simplificar a experiência de usuários de
+  dApps. A Porto lançou recentemente sua carteira móvel Bocto, projetada para
+  facilitar o uso de criptomoedas para usuários leigos. O Bocto oferece uma
+  experiência intuitiva de integração com gerenciamento de contas sem chave e
+  pagamento unificado de taxas entre blockchains. A Porto acredita que a Flow,
+  com suas características distintas como sistema de contas com mecanismo de
+  multi-sig incorporado, subsídios de taxa embutidos e linguagem de contrato
+  inteligente orientada a recursos, oferece uma plataforma adequada para dApps
+  de consumo, ao mesmo tempo em que fornece escalabilidade sem sacrificar a
+  descentralização. A Porto também está trabalhando em integrações com outras
+  plataformas blockchain, como a Ethereum e a Solana.
 featuredImage:
   type: ImageBlock
   url: /images/Portto e Flow Blockchain diego fornalha.png
