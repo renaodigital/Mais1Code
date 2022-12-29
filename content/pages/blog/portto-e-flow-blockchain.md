@@ -23,7 +23,7 @@ media:
   altText: Portto e Flow Blockchain
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/Portto e Flow Blockchain diego fornalha.png
 ---
 Portto está em parceria com a Flow para oferecer a experiência mais simples em rampa de blockchain aos usuários dapp
 
