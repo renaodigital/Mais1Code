@@ -4,7 +4,7 @@ metaTitle: Versão beta aberta do nó de arquivo da comunidade Flow
 addTitleSuffix: true
 metaTags: []
 title: Versão beta aberta do nó de arquivo da comunidade Flow
-colors: colors-d
+colors: colors-a
 date: '2023-12-07'
 excerpt: >-
   O nó de arquivo é um tipo de nó da cadeia de blocos Flow que é responsável por
