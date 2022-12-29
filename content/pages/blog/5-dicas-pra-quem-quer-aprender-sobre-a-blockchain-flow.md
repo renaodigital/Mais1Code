@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 5 Dicas pra quem quer aprender sobre a blockchain Flow
 addTitleSuffix: true
 metaTags: []
 title: 5 Dicas pra quem quer aprender sobre a blockchain Flow
