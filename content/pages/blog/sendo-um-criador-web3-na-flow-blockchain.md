@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Sendo um Criador Web3 na Flow Blockchain
 addTitleSuffix: true
 metaTags: []
 title: Sendo um Criador Web3 na Flow Blockchain
