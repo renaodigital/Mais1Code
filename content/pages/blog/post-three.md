@@ -8,12 +8,6 @@ media:
   altText: Post Image
 bottomSections: []
 addTitleSuffix: true
-featuredImage:
-  type: ImageBlock
-  url: /images/flow-nodes-chart (1).png
-  altText: flow-nodes-chart
-  caption: flow-nodes-chart
-  elementId: flow-nodes-chart
 ---
 [O que é Flow Blockchain?](https://www.web3dev.com.br/diegofornalha/blockchain-426i)
 
