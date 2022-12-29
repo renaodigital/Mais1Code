@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: O que é Flow Blockchain?
 colors: colors-d
-date: '0202-12-29'
+date: '2022-12-29'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
