@@ -25,7 +25,7 @@ featuredImage:
     FLOW aumentou significativamente desde o seu lançamento.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/O que é Flow Blockchain diegofornalha-84b9c032.png
   altText: Post image
 bottomSections: []
 metaDescription: null
