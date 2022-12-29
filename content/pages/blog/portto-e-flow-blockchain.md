@@ -2,10 +2,7 @@
 layout: PostLayout
 metaTitle: Portto e Flow Blockchain
 addTitleSuffix: true
-metaTags:
-  - type: MetaTag
-    property: 'og:title'
-    content: ''
+metaTags: []
 title: Portto e Flow Blockchain
 colors: colors-d
 date: '2022-12-16'
