@@ -20,7 +20,7 @@ media:
   altText: FUSD o stablecoin da flow Blockchain
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/FUSD o stablecoin da flow Blockchain diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
