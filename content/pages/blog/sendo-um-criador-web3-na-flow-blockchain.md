@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Sendo um Criador Web3 na Flow Blockchain
 colors: colors-a
-date: '0002-12-13'
+date: '2022-12-13'
 excerpt: >-
   O objetivo da Dapper Labs é usar a tecnologia descentralizada, especificamente
   non-fungible tokens (NFTs), para dar poder aos criadores e permitir que eles
