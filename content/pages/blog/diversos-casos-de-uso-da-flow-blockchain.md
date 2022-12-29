@@ -71,7 +71,7 @@ metaDescription: >-
   nome. A Flow também possui a capacidade de usar leilões de lote frequentes
   para garantir a segurança de trocas descentralizadas de tokens na rede. A
   longo prazo, a FLOW pode ser usada para participar da governança da rede.
-socialImage: null
+socialImage: /images/Diego Fornalha Diversos casos de uso da flow blockchain.png
 author: content/data/team/hilary-ouse.json
 ---
 FLOW é a moeda nativa para aplicativos, jogos e contratos inteligentes construídos sobre o blockchain Flow e, portanto, é a moeda garantida para estar disponível para desenvolvedores e usuários realizarem transações na rede. Os desenvolvedores podem facilmente criar a FLOW diretamente em seus aplicativos para pagamentos ponta a ponta, também pode ser usado para cobrança por serviços, e até permitir que os consumidores ganhem recompensas pelo valor que criam.
