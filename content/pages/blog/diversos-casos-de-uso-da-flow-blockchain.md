@@ -40,7 +40,7 @@ featuredImage:
     longo prazo, a FLOW pode ser usada para participar da governança da rede.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Diego Fornalha Diversos casos de uso da flow blockchain.png
   altText: Post image
 bottomSections: []
 metaDescription: null
