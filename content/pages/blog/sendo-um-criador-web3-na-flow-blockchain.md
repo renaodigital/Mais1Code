@@ -67,7 +67,7 @@ metaDescription: >-
   para permitir a participação e o envolvimento das comunidades, bem como para
   permitir que os fãs apoiem criadores e comunidades e expressem a própria
   individualidade.
-socialImage: null
+socialImage: /images/Sendo um Criador Web3 na Flow Blockchain Diego Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 ![Image description](https://web3dev-forem-production.s3.amazonaws.com/uploads/articles/ue3ouyrh5n6127516rks.png)
