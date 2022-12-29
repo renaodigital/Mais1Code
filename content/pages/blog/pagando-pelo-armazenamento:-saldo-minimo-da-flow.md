@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
 addTitleSuffix: true
 metaTags: []
 title: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
