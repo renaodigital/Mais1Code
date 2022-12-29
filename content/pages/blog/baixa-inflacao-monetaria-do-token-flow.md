@@ -17,6 +17,20 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Ampla distribuição do token flow diego fornalha.png
+  caption: >-
+    Blockchains como a Flow são alimentadas por comunidades descentralizadas que
+    executam o hardware do computador (nós validadores) que suportam a atividade
+    e protegem o valor dos ativos na rede. A Flow tem um limite para a inflação
+    monetária, ou seja, para a criação e distribuição de novos tokens, que é
+    utilizada por outras blockchains para atrair operadores de nós para suas
+    redes. A inflação monetária tem um custo, pois dilui todos os titulares de
+    token. A Flow garante um pagamento definido para os operadores de nó e emite
+    novos tokens apenas quando necessário para compensar a diferença entre as
+    taxas de transação e o pagamento garantido. Se as taxas de transação
+    excederem o valor do pagamento, elas são mantidas em uma conta caução e
+    usadas para compensar a inflação futura indefinidamente. A Flow cobra taxas
+    de processamento e taxas de cálculo dos usuários ou dos aplicativos que eles
+    estão usando pelos serviços de processamento de transações.
 bottomSections: []
 metaDescription: null
 socialImage: null
