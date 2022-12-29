@@ -16,7 +16,7 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Controle básico de acesso em Cadence diegofornalha.png
   altText: Controle básico de acesso em Cadence
 bottomSections: []
 metaDescription: null
