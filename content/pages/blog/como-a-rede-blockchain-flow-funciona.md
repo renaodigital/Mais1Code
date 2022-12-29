@@ -47,12 +47,18 @@ metaDescription: >-
   opções no mercado.
 socialImage: /images/Como a rede blockchain flow funciona diegofornalha.png
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Flow é um da tecnologia blockchain projetada do início ao fim com o objetivo de ser integrado em jogos e aplicativos, tornando-se uma rede blockchain de alta velocidade e uma arquitetura modular extremamente flexível para o desenvolvimento.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Os devs da Flow criaram um sistema no qual várias funções podem coexistir, funções que são desempenhadas por seus nós, cada uma com um objetivo muito específico. Isso permite que você divida suas tarefas recebidas (as transações que você envia) de maneiras exclusivas, tornando-as mais fáceis de atender.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Então, por exemplo, se uma transação interage com um contrato inteligente avançada (ex: uma interação com um DApp), a referida transação é dividida em duas partes: a primeira, onde estão os metadados da transação (quem envia, endereços, entre outros).
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+E, a segunda, a interação com o contato inteligente como tal, que deve ser invocado (a partir de seu endereço), executado e oferecer uma resposta ao nosso usuário (que é visível no blockchain). Além disso, todo esse processo deve ser verificado, obedecer às regras de consenso e, finalmente, ser incluído no blockchain. Se estivéssemos no Ethereum, essas tarefas são realizadas de forma linear (lenta e cara).
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Mas no Flow, a primeira e a segunda partes vão para um tipo de nó (chamado de nó de execução), enquanto as tarefas de consenso, verificação e armazenamento são atribuídas a tipos de nós específicos para cada tarefa. Como cada um desses pontos requer trabalho computacional específico (alguns requerem mais potência do que outros), a divisão do trabalho torna o fornecimento de grandes volumes de informações mais fácil e rápido de fazer no final. A Flow criou uma rede blockchain de operação heterogênea (com nós atribuídos para diferentes funções), com paralelismo e escalabilidade que cresce com o número de nós na rede.
+
+Você quer uma explicação mais simples do que esta? Veja da seguinte forma, não é a mesma coisa ter um restaurante em que você ocupa todos os cargos (de chef, garçom, caixa), do que ter uma equipe que o apoia em cada tarefa e, principalmente, se o seu restaurante tem uma grande procura e afluência de comensais. O primeiro seria o sistema atual de muitos blockchains, enquanto o segundo seria Flow.
+
+Explorando como o Flow funciona em profundidade
+Agora que sabemos como o Flow funciona em geral, é bom saber como ele o faz acontecer. Em primeiro lugar, Flow é um projeto com uma arquitetura multifuncional pensada na divisibilidade de atribuições e tarefas. Isso é essencial, porque a arquitetura de rede Flow, embora complexa, é muito menos problemática do que as outras opções que encontramos nesse mercado. Com isso dito, vamos primeiro explorar como seus nós são divididos e quais são suas funções.
+
