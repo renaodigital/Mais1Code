@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: O que é um STAKING na blockchain flow?
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: O que é um STAKING na blockchain flow?
 colors: colors-a
 date: '2022-11-01'
