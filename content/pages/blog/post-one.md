@@ -1,8 +1,7 @@
 ---
-title: O que é Flow?
+title: migrar
 layout: PostLayout
 date: '2021-06-28'
-author: content/data/team/dianne-ameter.json
 excerpt: >-
   Surgiu no dia 15 de agosto de 2019 a Flow é uma blockchain que oferece suporte
   para criação , principalmente games em blockchain e NFTs. Seu token nativo é o
@@ -17,50 +16,7 @@ excerpt: >-
 media:
   type: ImageBlock
   altText: Post Image
-bottomSections:
-  - elementId: ''
-    variant: variant-d
-    colors: colors-d
-    title: Próximos Artigos
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    recentCount: 3
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-56
-          - pr-4
-          - pl-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: RecentPostsSection
-  - type: DividerSection
-    colors: colors-d
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-4
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
+bottomSections: []
 addTitleSuffix: true
 ---
 [Saiba mais o que é blockchain](https://www.web3dev.com.br/diegofornalha/blockchain-13og)
