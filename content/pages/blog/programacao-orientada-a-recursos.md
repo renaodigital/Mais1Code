@@ -32,7 +32,7 @@ featuredImage:
     para a escrita de contratos inteligentes na plataforma.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Programação orientada a recursos Diego Fornalha.png
   altText: Programação orientada a recursos
   caption: >-
     O Cadence é uma linguagem de programação orientada a recursos de alto nível
