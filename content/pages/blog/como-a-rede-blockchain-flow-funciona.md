@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Como a rede blockchain flow funciona diegofornalha.png
-  altText: Post image
+  altText: Como a rede blockchain flow funciona?
 bottomSections: []
 metaDescription: null
 socialImage: null
