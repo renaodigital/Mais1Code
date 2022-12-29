@@ -15,6 +15,18 @@ media:
   type: ImageBlock
   url: /images/Staking de Flow pelo Navegador Diego Fornalha.png
   altText: Staking de Flow pelo Navegador
+  caption: >-
+    O Flow é um blockchain construído para a próxima geração de aplicativos,
+    jogos e ativos digitais. O Flow Port é um portal que permite aos usuários
+    criar e gerenciar suas contas no Flow, além de gerenciar seus ativos,
+    participar de Staking e Delegation e mais. Staking é o processo de colocar
+    tokens na rede para validar transações e gerar recompensas, enquanto
+    Delegation é o processo de permitir que outras pessoas usem seus tokens para
+    validar transações e gerar recompensas. O Flow Port permite que os usuários
+    usem provedores de custódia ou façam Staking e Delegation manualmente
+    através de carteiras como Blocto ou Ledger. O jogo Chainmonsters também está
+    integrado ao blockchain Flow, permitindo que os usuários usem NFTs e outros
+    objetos do jogo em um mundo aberto multijogador.
 bottomSections: []
 metaDescription: >-
   O Flow é um blockchain construído para a próxima geração de aplicativos, jogos
