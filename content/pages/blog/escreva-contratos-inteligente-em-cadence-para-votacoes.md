@@ -18,7 +18,9 @@ featuredImage:
   caption: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/Escreva Contratos Inteligente em Cadence Para Votações
+    diegofornalha.png
   altText: Post image
 bottomSections: []
 metaDescription: null
