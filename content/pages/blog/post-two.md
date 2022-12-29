@@ -21,12 +21,6 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
-featuredImage:
-  type: ImageBlock
-  url: /images/flovatar 3d.png
-  altText: Flovatar 3d
-  caption: Flovatar 3d
-  elementId: ''
 ---
 Enquanto a maioria dos criptoativos está passando por um momento de tensão, com quedas sequenciais de valor de mercado, uma moeda tem se destacado: a Flow, cripto de uma rede blockchain com foco para NFTs e blockchain games.
 
