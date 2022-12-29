@@ -3,9 +3,6 @@ title: Migrar
 layout: PostLayout
 date: '2022-02-02'
 bottomSections: []
-metaDescription: >-
-  Sunset fishing is a beautiful time of day to relax and get in touch with
-  nature
 socialImage: /images/desmond-eagle.png
 addTitleSuffix: true
 ---
