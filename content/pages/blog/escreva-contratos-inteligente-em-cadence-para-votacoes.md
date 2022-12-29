@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Escreva Contratos Inteligente em Cadence Para Votações
 addTitleSuffix: true
 metaTags: []
 title: Escreva Contratos Inteligente em Cadence Para Votações
