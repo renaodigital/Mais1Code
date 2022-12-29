@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: NBA Top Shot na Flow Blockchain
 addTitleSuffix: true
 metaTags: []
 title: NBA Top Shot na Flow Blockchain
