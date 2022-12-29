@@ -61,6 +61,7 @@ media:
 bottomSections: []
 metaDescription: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
 socialImage: /images/Diego Fornalha Pagando pelo armazenamento saldo mínimo da FLOW.png
+author: content/data/team/hilary-ouse.json
 ---
 O armazenamento na Flow pode ser associado a contas de usuário individuais, em vez de contratos inteligentes: esse é um recurso sutil com impacto positivo significativo na experiência do usuário dos aplicativos Flow. Em blockchains sem essa capacidade, qualquer não pagamento de “aluguel do estado” em nome do desenvolvedor do contrato inteligente pode fazer com que todos os ativos dos usuários sejam apagados. Na Flow, os ativos de um usuário nunca podem desaparecer ou ser eliminados sem o seu consentimento.‍
 
