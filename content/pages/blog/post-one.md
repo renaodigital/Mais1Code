@@ -62,12 +62,6 @@ bottomSections:
         borderWidth: 1
         borderStyle: solid
 addTitleSuffix: true
-featuredImage:
-  type: ImageBlock
-  url: /images/flow-Blockchain.jpg
-  altText: Flow Blockchain
-  caption: Flow Blockchain
-  elementId: flow-blockchain
 ---
 [Saiba mais o que é blockchain](https://www.web3dev.com.br/diegofornalha/blockchain-13og)
 
