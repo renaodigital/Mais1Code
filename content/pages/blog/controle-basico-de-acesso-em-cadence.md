@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: Controle básico de acesso em Cadence
 bottomSections: []
 metaDescription: null
 socialImage: null
