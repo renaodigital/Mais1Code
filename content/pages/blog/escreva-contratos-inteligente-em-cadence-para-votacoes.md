@@ -45,7 +45,9 @@ media:
     inicialize as propostas e crie novas instâncias do recurso Voto.
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: >-
+  /images/Escreva Contratos Inteligente em Cadence Para Votações
+  diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Hoje nós vamos ver como é fácil programar seu primeiro smart contract em Cadence de votação, ele sem dúvidas é o verdadeiro mestre das eleições!
