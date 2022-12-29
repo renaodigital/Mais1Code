@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Apresentando o Flow Playground diego fornalha.png
-  altText: Post thumbnail image
+  altText: Apresentando o Flow Playground
   caption: ''
 media:
   type: ImageBlock
