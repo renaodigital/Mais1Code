@@ -22,7 +22,16 @@ media:
     diegofornalha.png
   altText: Como construir um Dapp para cunhagem de NFT na Flow
 bottomSections: []
-metaDescription: null
+metaDescription: >-
+  Para configurar uma conta no blockchain Flow, é necessário gerar um par de
+  chaves públicas e privadas. Isso pode ser feito usando o comando
+  "generateKeys" da biblioteca "flow-js" ou através de outra ferramenta de
+  geração de chaves. As chaves públicas e privadas são usadas para assinar
+  transações no blockchain Flow e garantir a segurança da conta. Depois de gerar
+  as chaves, é preciso criar uma conta no blockchain Flow usando as chaves e
+  seguir as instruções fornecidas pela plataforma para configurar a conta.
+  Depois de configurar a conta, você poderá implantar seu contrato inteligente
+  no blockchain Flow.
 socialImage: /images/Como construir um Dapp para cunhagem de NFT na Flow diegofornalha.png
 title: Como construir um Dapp para cunhagem de NFT na Flow
 author: content/data/team/hilary-ouse.json
