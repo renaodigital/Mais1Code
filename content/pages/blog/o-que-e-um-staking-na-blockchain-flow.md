@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: O que é um STAKING na blockchain flow?
 addTitleSuffix: true
 metaTags: []
 title: O que é um STAKING na blockchain flow?
