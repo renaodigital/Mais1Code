@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Uma retrospectiva da Copa Cadence
 addTitleSuffix: true
 metaTags:
   - type: MetaTag
