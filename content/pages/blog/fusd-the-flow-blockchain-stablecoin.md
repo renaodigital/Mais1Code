@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: FUSD o stablecoin da flow Blockchain
 addTitleSuffix: true
 metaTags: []
 title: FUSD o stablecoin da flow Blockchain
