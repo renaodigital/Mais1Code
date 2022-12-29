@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Como a rede blockchain flow funciona diegofornalha.png
-  altText: Post thumbnail image
+  altText: Como a rede blockchain flow funciona?
   caption: ''
 media:
   type: ImageBlock
