@@ -13,7 +13,16 @@ featuredImage:
   type: ImageBlock
   url: /images/O que é Flow Blockchain diegofornalha.png
   altText: O que é Flow Blockchain?
-  caption: ''
+  caption: >-
+    A Flow é uma blockchain projetada para suportar a criação de aplicativos
+    descentralizados, especialmente jogos e tokens não fungíveis. Ela foi criada
+    com o objetivo de solucionar o problema de escalabilidade das blockchains
+    existentes e oferece suporte para ecossistemas de aplicativos e jogos de
+    alto desempenho sem comprometer a descentralização. Seu token nativo é o
+    FLOW e, apesar de ainda estar em desenvolvimento, a Flow já permite a
+    criação de aplicativos descentralizados poderosos, como enviar e receber
+    criptomoedas, criar tokens fungíveis e NFTs, e mercados. O preço do token
+    FLOW aumentou significativamente desde o seu lançamento.
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
