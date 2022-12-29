@@ -2,7 +2,6 @@
 title: migrar
 layout: PostLayout
 date: '2021-11-04'
-author: content/data/team/desmond-eagle.json
 media:
   type: ImageBlock
   altText: Post Image
