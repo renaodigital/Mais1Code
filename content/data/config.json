@@ -88,15 +88,7 @@
                 "altText": ""
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "/",
-                "icon": "instagram"
-            }
-        ],
+        "socialLinks": [],
         "legalLinks": [],
         "styles": {
             "self": {
