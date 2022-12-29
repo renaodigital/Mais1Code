@@ -20,7 +20,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Tomando seus primeiros passos com Cadence diegofornalha.png
-  altText: Post thumbnail image
+  altText: Tomando seus primeiros passos com Cadence
   caption: ''
 media:
   type: ImageBlock
