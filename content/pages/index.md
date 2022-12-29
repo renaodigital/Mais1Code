@@ -86,8 +86,7 @@ sections:
         showIcon: true
         icon: arrowRight
     posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
+      - content/pages/blog/o-que-e-flow-blockchain.md
     styles:
       self:
         height: auto
@@ -153,7 +152,7 @@ sections:
     actions:
       - type: Link
         label: Comunidade no Discord
-        url: 'https://discord.gg/RdevxUp6cC'
+        url: ' https://discord.gg/hT8EpC5mUN'
         showIcon: true
         icon: arrowRight
     backgroundImage:

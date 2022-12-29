@@ -83,32 +83,16 @@
             },
             {
                 "type": "Link",
-                "label": "\nContate-Nos",
-                "url": "mailto:contato@mais1code.com.br",
-                "altText": ""
+                "label": "Linkedin",
+                "altText": "",
+                "url": "https://linkedin.com/in/diegofornalha",
+                "showIcon": true,
+                "icon": "linkedin",
+                "iconPosition": "left"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "/",
-                "icon": "instagram"
-            }
-        ],
-        "legalLinks": [
-            {
-                "type": "Link",
-                "label": "Privacy Policy",
-                "url": "/"
-            },
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/"
-            }
-        ],
+        "socialLinks": [],
+        "legalLinks": [],
         "styles": {
             "self": {
                 "width": "narrow"
