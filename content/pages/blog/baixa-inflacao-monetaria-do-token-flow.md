@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Baixa Inflação Monetária do token flow diegofornalha.png
-  altText: Post thumbnail image
+  altText: Baixa Inflação Monetária do token flow
   caption: ''
 media:
   type: ImageBlock
