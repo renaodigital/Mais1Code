@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: FUSD the flow Blockchain stablecoin
+title: FUSD o stablecoin da flow Blockchain
 colors: colors-d
 date: '2022-12-22'
 excerpt: >-
