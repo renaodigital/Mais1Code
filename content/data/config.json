@@ -84,7 +84,8 @@
             {
                 "type": "Link",
                 "label": "Linkedin",
-                "altText": ""
+                "altText": "",
+                "url": "https://linkedin.com/in/diegofornalha"
             }
         ],
         "socialLinks": [],
