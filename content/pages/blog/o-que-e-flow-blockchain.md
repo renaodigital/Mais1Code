@@ -29,7 +29,7 @@ media:
   altText: Post image
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/O que é Flow Blockchain diegofornalha-84b9c032.png
 author: content/data/team/hilary-ouse.json
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
