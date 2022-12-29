@@ -4,7 +4,7 @@ metaTitle: null
 addTitleSuffix: true
 metaTags: []
 title: O que é um STAKING na blockchain flow?
-colors: colors-d
+colors: colors-a
 date: '2022-11-01'
 excerpt: >-
   O staking é um processo utilizado em redes descentralizadas para incentivar a
