@@ -70,7 +70,7 @@ metaDescription: >-
   compensar a inflação futura indefinidamente. A Flow cobra taxas de
   processamento e taxas de cálculo dos usuários ou dos aplicativos que eles
   estão usando pelos serviços de processamento de transações.
-socialImage: null
+socialImage: /images/Baixa Inflação Monetária do token flow diegofornalha.png
 ---
 Blockchains como a Flow são alimentados por comunidades descentralizadas que executam o hardware do computador (“nós validadores”) que suportam a atividade e protegem o valor dos ativos na rede.
 
