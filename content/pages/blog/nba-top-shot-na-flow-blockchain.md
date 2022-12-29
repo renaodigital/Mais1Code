@@ -43,7 +43,7 @@ media:
     permitindo-lhes se divertir e criar eventos geradores de receita.
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/NBA Top Shot na Flow Blockchain diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 A Dapper Labs [anunciou uma grande parceria com a NBA e a NBPA](https://pr.nba.com/nba-nbpa-dapper-labs-blockchain-game/) no final de julho de 2019. Embora os detalhes fossem escassos na época, mais informações foram compartilhadas no dia do lançamento do acesso beta do produto.
