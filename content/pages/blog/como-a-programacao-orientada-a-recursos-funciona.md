@@ -21,7 +21,7 @@ excerpt: >-
   individualidade.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Como a programação orientada a recursos funciona diegofornalha.png
   altText: Post thumbnail image
   caption: ''
 media:
