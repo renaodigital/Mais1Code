@@ -45,7 +45,7 @@ media:
   url: >-
     /images/Versão beta aberta do nó de arquivo da comunidade Flow
     Diegofornalha.png
-  altText: Post image
+  altText: Versão beta aberta do nó de arquivo da comunidade Flow
 bottomSections: []
 metaDescription: >-
   O nó de arquivo é um tipo de nó da cadeia de blocos Flow que é responsável por
