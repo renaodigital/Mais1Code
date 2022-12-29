@@ -34,6 +34,16 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Post image
+  caption: >-
+    O Cadence é uma linguagem de programação orientada a recursos de alto nível
+    desenvolvida pela equipe da plataforma blockchain Flow. Ela foi inspirada no
+    modelo de propriedade de recursos dos tipos lineares, introduzido pela
+    equipe da Libra em seu anúncio inicial. O objetivo do Cadence é oferecer uma
+    forma mais segura de escrever contratos inteligentes e gerenciar propriedade
+    de ativos digitais na blockchain. Ele possui uma sintaxe semelhante ao Rust
+    e possui tipos de dados especiais para representar a propriedade de
+    recursos. A Flow está trabalhando para tornar o Cadence a linguagem padrão
+    para a escrita de contratos inteligentes na plataforma.
 bottomSections: []
 metaDescription: null
 socialImage: null
