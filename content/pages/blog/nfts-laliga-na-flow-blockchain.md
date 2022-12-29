@@ -12,7 +12,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/NFTs LaLiga na Flow Blockchain diegofornalha.png
-  altText: Post thumbnail image
+  altText: NFTs LaLiga na Flow Blockchain
   caption: ''
 media:
   type: ImageBlock
