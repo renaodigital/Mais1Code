@@ -86,23 +86,21 @@ Administrar.
 
 Com esses recursos, o smart contract em Cadence é capaz de realizar eleições de forma eficiente e segura.
 
-O recurso `é o contrato principal e define as variáveis` e ` , bem como as funções  ` e \`\`.
+O recurso MaioriaGanha é o contrato principal e define as variáveis propostas e votos, bem como as funções processar e init.
 
-A variável `é uma lista de strings que armazena as propostas disponíveis para votação, enquanto a variável` é um dicionário que armazena a contagem de votos para cada uma das propostas.
+A variável propostas é uma lista de strings que armazena as propostas disponíveis para votação, enquanto a variável votos é um dicionário que armazena a contagem de votos para cada uma das propostas.
 
-A função `é usada para processar um voto quando um participante decide finalizá-lo, enquanto a função` é chamada quando o contrato é criado e inicializa as variáveis `e` com valores vazios e salva uma instância do recurso \`\` na storage do contrato.
+A função processar é usada para processar um voto quando um participante decide finalizá-lo, enquanto a função init é chamada quando o contrato é criado e inicializa as variáveis propostas e votos com valores vazios e salva uma instância do recurso Administrar na storage do contrato.
 
-O recurso `é usado para permitir que os participantes votem em uma das propostas e armazenar suas escolhas em uma variável`.
+O recurso Voto é usado para permitir que os participantes votem em uma das propostas e armazenar suas escolhas em uma variável escolha.
 
-Quando uma nova instância do recurso `é criada, a função` é chamada para inicializar a variável `com um dicionário vazio e preencher o dicionário com as propostas disponíveis. O participante pode chamar a função` para votar em uma das propostas, passando o índice da proposta como argumento.
+Quando uma nova instância do recurso Voto é criada, a função init é chamada para inicializar a variável escolha com um dicionário vazio e preencher o dicionário com as propostas disponíveis. O participante pode chamar a função vote para votar em uma das propostas, passando o índice da proposta como argumento.
 
-O recurso `permite que o administrador inicialize as propostas e crie novas instâncias do recurso`. A função `é usada para atribuir a lista de propostas fornecida à variável` do contrato principal e inicializar a variável \`\` com um dicionário vazio, com chaves correspondentes a cada uma das propostas.
+O recurso Administrar permite que o administrador inicialize as propostas e crie novas instâncias do recurso Voto. A função inicializePropostas é usada para atribuir a lista de propostas fornecida à variável propostas do contrato principal e inicializar a variável votos com um dicionário vazio, com chaves correspondentes a cada uma das propostas.
 
-A função `é usada para criar uma nova instância do recurso` e retorná-la.
+A função emitirVoto é usada para criar uma nova instância do recurso Voto e retorná-la.
 
 Espero que isso tenha ajudado a esclarecer o que o seu smart contract está fazendo de forma mais detalhada e descontraída. Se você tiver mais perguntas ou precisar de mais assistência, não hesite em perguntar.
-
-```
 pub contract MaioriaGanha {
     pub var propostas: [String]
     pub let votos: {Int: Int}
@@ -166,17 +164,13 @@ pub contract MaioriaGanha {
         self.account.save<@Administrar>(<-create Administrar(), to: /storage/CalcularVotos)
     }
 }
-```
+Parece que o seu código em Cadence é uma transação que permite ao administrador inicializar uma lista de propostas para eventos. Quando a transação é executada, ela solicita ao administrador que forneça suas credenciais de autenticação e, em seguida, usa essas credenciais para obter uma referência para o recurso Administrar do contrato MaioriaGanha.
 
-Parece que o seu código em Cadence é uma transação que permite ao administrador inicializar uma lista de propostas para eventos. Quando a transação é executada, ela solicita ao administrador que forneça suas credenciais de autenticação e, em seguida, usa essas credenciais para obter uma referência para o recurso `do contrato`.
+Em seguida, a função inicializePropostas é chamada no recurso Administrar, passando uma lista de três cidades como argumento: Rio de Janeiro, São Paulo e Floripa.
 
-Em seguida, a função `é chamada no recurso`, passando uma lista de três cidades como argumento: Rio de Janeiro, São Paulo e Floripa.
-
-Essa função atribui a lista de propostas fornecida à variável `do contrato principal e inicializa a variável` com um dicionário vazio, com chaves correspondentes a cada uma das propostas.
+Essa função atribui a lista de propostas fornecida à variável propostas do contrato principal e inicializa a variável votos com um dicionário vazio, com chaves correspondentes a cada uma das propostas.
 
 Por fim, a transação exibe uma mensagem de log informando que as sugestões de locais para eventos foram publicadas.
-
-```
 import MaioriaGanha from 0x01
 
 transaction {
@@ -191,16 +185,12 @@ transaction {
         log("Sugestoes de Locais para Eventos Publicada!")
     }
 }
-```
-
-Agora veremos um contrato de uma transação que permite a um eleitor emitir um voto em uma das propostas disponíveis em um contrato \`\`
+Agora veremos um contrato de uma transação que permite a um eleitor emitir um voto em uma das propostas disponíveis em um contrato MaioriaGanha
 . Quando a transação é executada, ela solicita ao administrador e ao eleitor que forneçam suas credenciais de autenticação.
 
-Em seguida, a transação obtém uma referência para o recurso `do contrato` e chama a função `nesse recurso. A função` cria uma nova instância do recurso \`\` e retorna uma referência para ela.
+Em seguida, a transação obtém uma referência para o recurso Administrar do contrato MaioriaGanha e chama a função emitirVoto nesse recurso. A função emitirVoto cria uma nova instância do recurso Voto e retorna uma referência para ela.
 
-Em seguida, a transação salva a instância do recurso \`\` na storage do eleitor e exibe uma mensagem de log informando que o acesso foi concedido.
-
-```
+Em seguida, a transação salva a instância do recurso Voto na storage do eleitor e exibe uma mensagem de log informando que o acesso foi concedido.
 import MaioriaGanha from 0x01
 
 transaction {
@@ -215,17 +205,13 @@ transaction {
         log("Acesso Concedido")
     }
 }
-```
+Agora uma transação que permite a um eleitor emitir um voto em uma das propostas disponíveis em um contrato MaioriaGanha. Quando a transação é executada, ela solicita ao eleitor que forneça suas credenciais de autenticação e, em seguida, tenta carregar uma instância do recurso Voto da storage do eleitor.
 
-Agora uma transação que permite a um eleitor emitir um voto em uma das propostas disponíveis em um contrato ` . Quando a transação é executada, ela solicita ao eleitor que forneça suas credenciais de autenticação e, em seguida, tenta carregar uma instância do recurso  ` da storage do eleitor.
+Se uma instância do recurso Voto for encontrada na storage do eleitor, a transação chama a função vote nessa instância, passando o valor 0 como argumento. Isso marca a primeira proposta da lista como a escolha do eleitor.
 
-Se uma instância do recurso `for encontrada na storage do eleitor, a transação chama a função` nessa instância, passando o valor 0 como argumento. Isso marca a primeira proposta da lista como a escolha do eleitor.
-
-Em seguida, a transação chama a função `do contrato`, passando a instância do recurso \`\` como argumento. Isso adiciona o voto do eleitor à contagem de votos para a primeira proposta.
+Em seguida, a transação chama a função processar do contrato MaioriaGanha, passando a instância do recurso Voto como argumento. Isso adiciona o voto do eleitor à contagem de votos para a primeira proposta.
 
 Por fim, a transação exibe uma mensagem de log informando que o voto foi computado.
-
-```
 import MaioriaGanha from 0x01
 
 transaction {
@@ -240,15 +226,11 @@ transaction {
         log("Voto computado")
     }
 }
-```
-
 Por fim, no script template.
 
 Quando a função é chamada, ela exibe os valores da primeira, segunda e terceira propostas na lista de propostas, seguidos dos respectivos valores de votos.
 
 A função usa os índices 0, 1 e 2 para acessar os elementos da lista de propostas e do dicionário de votos, respectivamente. Isso significa que ela exibirá a primeira proposta da lista, seguida do número de votos para essa proposta, depois a segunda proposta da lista e o número de votos para ela, e assim por diante.
-
-```
 import MaioriaGanha from 0x01
 
 pub fun main() {
@@ -261,6 +243,4 @@ pub fun main() {
     log(MaioriaGanha.propostas[2])
     log(MaioriaGanha.votos[2])
 }
-```
-
-[Try out this Playground project](https://play.flow.com/0d2820a3-6ac6-4350-bf7e-ea872214eebb?type=account\&id=4b7045e4-e927-4b90-838f-b332bdc882aa\&storage=none)
+Try out this Playground project
