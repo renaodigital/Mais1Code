@@ -3,10 +3,6 @@ layout: PostLayout
 date: '2022-11-01'
 colors: colors-a
 author: content/data/team/hilary-ouse.json
-media:
-  type: ImageBlock
-  altText: Post Image
-  url: /images/diegofornalha staking flow blockchain.png
 bottomSections: []
 addTitleSuffix: true
 metaDescription: >-
