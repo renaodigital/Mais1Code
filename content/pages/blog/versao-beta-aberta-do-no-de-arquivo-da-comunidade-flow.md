@@ -11,7 +11,9 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/Versão beta aberta do nó de arquivo da comunidade Flow
+    Diegofornalha.png
   altText: Post thumbnail image
   caption: ''
 media:
