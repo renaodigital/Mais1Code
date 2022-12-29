@@ -22,7 +22,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/Como a programação orientada a recursos funciona diegofornalha.png
-  altText: Post thumbnail image
+  altText: Como a programação orientada a recursos funciona?
   caption: >-
     O EVM (Ethereum Virtual Machine) ou WASM (WebAssembly) são opções ideais
     para ativos digitais, pois permitem que esses ativos sejam rotulados como
