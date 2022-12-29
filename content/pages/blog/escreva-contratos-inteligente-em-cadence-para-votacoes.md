@@ -21,7 +21,7 @@ media:
   url: >-
     /images/Escreva Contratos Inteligente em Cadence Para Votações
     diegofornalha.png
-  altText: Post image
+  altText: Escreva Contratos Inteligente em Cadence Para Votações
 bottomSections: []
 metaDescription: null
 socialImage: null
