@@ -9,7 +9,7 @@ date: '2022-12-19'
 featuredImage:
   type: ImageBlock
   url: /images/Staking de Flow pelo Navegador Diego Fornalha.png
-  altText: Post thumbnail image
+  altText: Staking de Flow pelo Navegador
   caption: ''
 media:
   type: ImageBlock
