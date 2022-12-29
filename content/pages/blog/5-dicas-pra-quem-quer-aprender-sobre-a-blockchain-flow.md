@@ -33,7 +33,7 @@ media:
   url: >-
     /images/5 Dicas pra quem quer aprender sobre a blockchain Flow
     diegofornalha.png
-  altText: Post image
+  altText: 5 Dicas pra quem quer aprender sobre a blockchain Flow
 bottomSections: []
 metaDescription: null
 socialImage: null
