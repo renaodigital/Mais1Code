@@ -76,6 +76,7 @@ metaDescription: >-
   rede.
 metaTags: []
 socialImage: /images/diegofornalha staking flow blockchain.png
+metaTitle: O que é um STAKING na blockchain flow?
 ---
 Flow é uma rede global de computadores que trabalham juntos para manter a segurança e a integridade dos dados de seus usuários.
 
