@@ -87,7 +87,8 @@
                 "altText": "",
                 "url": "https://linkedin.com/in/diegofornalha",
                 "showIcon": true,
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "iconPosition": "left"
             }
         ],
         "socialLinks": [],
