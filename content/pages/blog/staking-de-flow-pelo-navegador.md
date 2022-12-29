@@ -17,7 +17,7 @@ media:
   altText: Staking de Flow pelo Navegador
 bottomSections: []
 metaDescription: null
-socialImage: null
+socialImage: /images/Staking de Flow pelo Navegador Diego Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Se ainda não sabe o que é staking, no meu primeiro artigo eu te passo uma definição mais detalhada. [Clique Aqui e Saiba Mais](https://www.web3dev.com.br/diegofornalha/o-que-e-um-staking-na-blockchain-flow-la6)
