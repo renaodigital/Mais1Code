@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Tomando seus primeiros passos com Cadence
 addTitleSuffix: true
 metaTags: []
 title: Tomando seus primeiros passos com Cadence
