@@ -7,8 +7,15 @@ title: Programação orientada a recursos
 colors: colors-d
 date: '2022-12-10'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  O Cadence é uma linguagem de programação orientada a recursos de alto nível
+  desenvolvida pela equipe da plataforma blockchain Flow. Ela foi inspirada no
+  modelo de propriedade de recursos dos tipos lineares, introduzido pela equipe
+  da Libra em seu anúncio inicial. O objetivo do Cadence é oferecer uma forma
+  mais segura de escrever contratos inteligentes e gerenciar propriedade de
+  ativos digitais na blockchain. Ele possui uma sintaxe semelhante ao Rust e
+  possui tipos de dados especiais para representar a propriedade de recursos. A
+  Flow está trabalhando para tornar o Cadence a linguagem padrão para a escrita
+  de contratos inteligentes na plataforma.
 featuredImage:
   type: ImageBlock
   url: /images/Programação orientada a recursos Diego Fornalha.png
