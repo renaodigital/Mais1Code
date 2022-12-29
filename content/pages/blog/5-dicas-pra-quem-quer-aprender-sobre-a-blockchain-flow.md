@@ -14,7 +14,7 @@ featuredImage:
   url: >-
     /images/5 Dicas pra quem quer aprender sobre a blockchain Flow
     diegofornalha.png
-  altText: Post thumbnail image
+  altText: 5 Dicas pra quem quer aprender sobre a blockchain Flow
   caption: ''
 media:
   type: ImageBlock
