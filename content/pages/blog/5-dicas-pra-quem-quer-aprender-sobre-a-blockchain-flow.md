@@ -30,7 +30,9 @@ featuredImage:
     interagir com outros desenvolvedores.
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/5 Dicas pra quem quer aprender sobre a blockchain Flow
+    diegofornalha.png
   altText: Post image
 bottomSections: []
 metaDescription: null
