@@ -27,7 +27,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Como a programação orientada a recursos funciona diegofornalha.png
-  altText: Post image
+  altText: 'Como a programação orientada a recursos funciona? '
 bottomSections: []
 metaDescription: null
 socialImage: null
