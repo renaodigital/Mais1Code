@@ -76,7 +76,6 @@ metaDescription: >-
   rede.
 metaTags:
   - type: MetaTag
-    property: 'og:title'
     content: ''
 ---
 Flow é uma rede global de computadores que trabalham juntos para manter a segurança e a integridade dos dados de seus usuários.
