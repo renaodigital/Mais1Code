@@ -14,7 +14,6 @@ export default function MyApp({ Component, pageProps }) {
     `}
 
         </Script>
-    </>;
 
     return <Component {...pageProps} />;
 }
