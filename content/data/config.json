@@ -35,8 +35,7 @@
                 "style": "secondary",
                 "showIcon": true,
                 "icon": "arrowRight",
-                "iconPosition": "right",
-                "url": "HTTPS://"
+                "iconPosition": "right"
             }
         ],
         "styles": {
