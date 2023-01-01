@@ -8,10 +8,10 @@ export default function MyApp({ Component, pageProps }) {
         <Script strategy="lazyOnload">
             {
                 `
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-99JF8KBFVZ');
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                    gtag('config', 'G-99JF8KBFVZ');
                 `
             }
 
