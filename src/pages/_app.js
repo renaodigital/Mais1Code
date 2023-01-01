@@ -14,7 +14,7 @@ export default function MyApp({ Component, pageProps }) {
     gtag('config', 'G-99JF8KBFVZ');
     `
     }
-        </>;
+    
 
     </Script>
     </>;
