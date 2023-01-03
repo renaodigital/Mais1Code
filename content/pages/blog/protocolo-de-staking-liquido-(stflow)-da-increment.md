@@ -44,3 +44,6 @@ Por enquanto, os usuários podem:**
 📥 Migração - um recurso especificamente construído para delegadores existentes. Então, se você já delegou para um nó, não precisa desestacar do nó, mas pode "migrar" a posição estacada para o LSP e receber $stFlow imediatamente em 1 transação. Confira nossa orientação ao usuário aqui para obter mais informações e certas restrições.
 
 👨‍🌾 Dentro das próximas 24 horas, abriremos uma fazenda de LP para o par de troca \`**$flow <> $stFlow**\` para incentivar os LP, criando uma piscina de liquidez profunda para usuários que precisam de liquidez de desestacas instantânea. $stFlow também será habilitado como garantias no mercado de dinheiro em breve.
+
+Inspirado no artigo original em inglês: [`https://medium.com/coinmonks/introducing-increment-liquid-staking-2cc04e7eae9d`](https://medium.com/coinmonks/introducing-increment-liquid-staking-2cc04e7eae9d)
+
