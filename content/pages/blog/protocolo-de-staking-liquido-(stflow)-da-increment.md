@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: Protocolo de staking líquido (STFLOW) da Increment
 addTitleSuffix: true
 metaTags: []
 title: Protocolo de staking líquido (STFLOW) da Increment
