@@ -14,7 +14,9 @@ excerpt: >-
   forma rápida e fácil.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/Protocolo de staking líquido (STFLOW) da Increment - Diego
+    Fornalha.png
   altText: Protocolo de staking líquido (STFLOW) da Increment
   caption: ''
 media:
