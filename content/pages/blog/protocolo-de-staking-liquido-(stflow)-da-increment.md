@@ -39,6 +39,7 @@ media:
 bottomSections: []
 metaDescription: null
 socialImage: null
+author: content/data/team/hilary-ouse.json
 ---
 ## A Increment desenvolveu e lançou o primeiro protocolo de estacas líquidas não custodiante (LSP) líder no Flow.
 
