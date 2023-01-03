@@ -22,12 +22,28 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+## A Increment desenvolveu e lançou o primeiro protocolo de estacas líquidas não custodiante (LSP) líder no Flow.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Permitindo que os usuários ganhem recompensas de estacas e aproveitem a liquidez desbloqueada para participar do ecossistema DeFi do Flow ao mesmo tempo, acreditamos que o LSP cria grandes novas oportunidades para a rede Flow, operadores de nós, estadores e detentores de tokens em geral.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+O LSP ajuda a descentralizar a rede, facilita o processo de estacas e diversifica os riscos, libera capital desbloqueado e cria mais oportunidades de rendimento e composição.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Apenas um exemplo aqui: atualmente existem cerca de 719.000.000 tokens $flow bloqueados em estacas. Se conseguíssemos tornar 10% dessas tokens estacadas líquidas, teríamos cerca de 121 milhões de dólares em TVL para participar do ecossistema DeFi do Flow.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Recursos
+Por enquanto, os usuários podem:**
+
+💧 Estacar $flow com o LSP para obter $stFlow. O usuário pode segurar, transferir ou usar $stFlow dentro do ecossistema DeFi do Flow.
+
+
+📈 O preço do token $stFlow (em relação ao token $flow) aumenta com o tempo: as recompensas de estacas são automaticamente reestacadas (e, portanto, compostas) no início de cada época.
+
+
+💱 Resgatar as estacas de $flow e as recompensas geradas usando $stFlow, ou simplesmente trocar $stFlow de volta para $flow em AMM/DEX, sem esperar o período de desvinculação de 7 a 14 dias.
+
+
+📥 Migração - um recurso especificamente construído para delegadores existentes. Então, se você já delegou para um nó, não precisa desestacar do nó, mas pode "migrar" a posição estacada para o LSP e receber $stFlow imediatamente em 1 transação. Confira nossa orientação ao usuário aqui para obter mais informações e certas restrições.
+
+
+👨‍🌾 Dentro das próximas 24 horas, abriremos uma fazenda de LP para o par de troca `` para incentivar os LP, criando uma piscina de liquidez profunda para usuários que precisam de liquidez de desestacas instantânea. $stFlow também será habilitado como garantias no mercado de dinheiro em breve.
+
