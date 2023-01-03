@@ -29,7 +29,7 @@ media:
   url: >-
     /images/Protocolo de staking líquido (STFLOW) da Increment - Diego
     Fornalha.png
-  altText: Post image
+  altText: Protocolo de staking líquido (STFLOW) da Increment
   caption: >-
     A Increment lançou um protocolo de estacas líquidas no Flow que permite aos
     usuários participar do ecossistema DeFi enquanto recebem recompensas de
