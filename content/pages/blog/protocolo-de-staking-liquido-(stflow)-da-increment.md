@@ -37,7 +37,7 @@ media:
     permitindo que os usuários resgatam suas estacas e recompensas geradas de
     forma rápida e fácil.
 bottomSections: []
-metaDescription: null
+metaDescription: Protocolo de staking líquido (STFLOW) da Increment
 socialImage: null
 author: content/data/team/hilary-ouse.json
 ---
