@@ -38,7 +38,9 @@ media:
     forma rápida e fácil.
 bottomSections: []
 metaDescription: Protocolo de staking líquido (STFLOW) da Increment
-socialImage: null
+socialImage: >-
+  /images/Protocolo de staking líquido (STFLOW) da Increment - Diego
+  Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 ## A Increment desenvolveu e lançou o primeiro protocolo de estacas líquidas não custodiante (LSP) líder no Flow.
