@@ -1,9 +1,0 @@
-{
-    "type": "Person",
-    "firstName": "Time",
-    "lastName": "Mais 1 Code",
-    "image": {
-        "type": "ImageBlock",
-        "altText": "Dianne Ameter photo"
-    }
-}
