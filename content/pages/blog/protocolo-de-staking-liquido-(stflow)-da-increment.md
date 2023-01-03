@@ -37,15 +37,10 @@ Por enquanto, os usuários podem:**
 
 💧 Estacar $flow com o LSP para obter $stFlow. O usuário pode segurar, transferir ou usar $stFlow dentro do ecossistema DeFi do Flow.
 
-
 📈 O preço do token $stFlow (em relação ao token $flow) aumenta com o tempo: as recompensas de estacas são automaticamente reestacadas (e, portanto, compostas) no início de cada época.
-
 
 💱 Resgatar as estacas de $flow e as recompensas geradas usando $stFlow, ou simplesmente trocar $stFlow de volta para $flow em AMM/DEX, sem esperar o período de desvinculação de 7 a 14 dias.
 
-
 📥 Migração - um recurso especificamente construído para delegadores existentes. Então, se você já delegou para um nó, não precisa desestacar do nó, mas pode "migrar" a posição estacada para o LSP e receber $stFlow imediatamente em 1 transação. Confira nossa orientação ao usuário aqui para obter mais informações e certas restrições.
 
-
-👨‍🌾 Dentro das próximas 24 horas, abriremos uma fazenda de LP para o par de troca `` para incentivar os LP, criando uma piscina de liquidez profunda para usuários que precisam de liquidez de desestacas instantânea. $stFlow também será habilitado como garantias no mercado de dinheiro em breve.
-
+👨‍🌾 Dentro das próximas 24 horas, abriremos uma fazenda de LP para o par de troca \`**$flow <> $stFlow**\` para incentivar os LP, criando uma piscina de liquidez profunda para usuários que precisam de liquidez de desestacas instantânea. $stFlow também será habilitado como garantias no mercado de dinheiro em breve.
